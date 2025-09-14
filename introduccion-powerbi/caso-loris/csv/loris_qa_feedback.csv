@@ -1,0 +1,551 @@
+QA_ID,Recruiter_ID,Candidate_ID,Feedback_Score,Category,Comment,Alignment_with_Policy,Coaching_Required,Response_Time_Sec
+QBYRB4BIK,RQTPZN2,CUZD1T7H6,61.5,Compliance,Avoid free‑form refunds; follow threshold table.,No,Yes,12
+Q8JEPD263,RX70EUX,CY64R1LQT,93.9,Policy,Missed policy nuance; add the required verification step.,Yes,No,12
+QYM0P2C0L,RKBQMI1,CPE9ILSYS,85.7,Language,Shorten sentences; check grammar in templates.,Yes,No,10
+QXIQ8WZ17,RGQO9D4,CFWUSY4FP,66.3,Empathy,Improve tone and acknowledgment before solution.,No,Yes,16
+QTQIYMF2T,RO60RRW,CY7P30UGU,81.3,Compliance,Avoid free‑form refunds; follow threshold table.,Yes,No,22
+QSL3MQAFE,RKBQMI1,C69IGZKHB,85.1,Compliance,Avoid free‑form refunds; follow threshold table.,Yes,No,12
+QKNT2FQIZ,R1VCYW5,C741I6YGE,80.0,Empathy,Improve tone and acknowledgment before solution.,Yes,No,9
+QEWL1NA41,RGTYOX0,CKNHOED0C,75.7,Compliance,Avoid free‑form refunds; follow threshold table.,Yes,Yes,14
+QECJ002FD,RV5J536,CGM03NFGD,83.8,Empathy,Improve tone and acknowledgment before solution.,Yes,No,14
+QHIW8WPAF,R3CIL6P,CDG1DVMN8,100.0,Language,Shorten sentences; check grammar in templates.,Yes,No,11
+QGKY4PE4U,RSHG3JO,CK03LE6FV,91.3,Policy,Missed policy nuance; add the required verification step.,Yes,No,16
+QC0I4EEQD,RGTYOX0,CA0AC95Z4,81.9,Language,Shorten sentences; check grammar in templates.,Yes,No,17
+QMF3HRIBO,RYZBJPT,C65SZSYUS,75.5,Policy,Missed policy nuance; add the required verification step.,Yes,Yes,3
+QBRQ73JD2,RE2MZO2,CZW6AKGUW,96.0,Policy,Missed policy nuance; add the required verification step.,Yes,No,14
+QQ5G3MWSM,R3CIL6P,C8LH8WKWS,84.6,Compliance,Avoid free‑form refunds; follow threshold table.,Yes,No,20
+QNG8AVQZ3,RJX8UH8,CX5W8EMED,91.4,Policy,Missed policy nuance; add the required verification step.,Yes,No,14
+Q3YW3KXHR,RKBQMI1,CLNCQ6OXG,67.2,Compliance,Avoid free‑form refunds; follow threshold table.,No,Yes,3
+QK6GGNCY1,RVOJX6Q,CB0NSJNLB,86.8,Empathy,Improve tone and acknowledgment before solution.,Yes,No,14
+QI3BG26NX,RBOEB9D,CRL283PSQ,79.7,Policy,Missed policy nuance; add the required verification step.,Yes,No,10
+QIOCK9F0B,R1NKAAB,CGFQ62SHM,87.6,Policy,Missed policy nuance; add the required verification step.,Yes,No,16
+Q8VGETPVY,RVLO5D3,C660H8TTZ,62.0,Compliance,Avoid free‑form refunds; follow threshold table.,No,Yes,17
+Q74NXVOX7,R3U9XBG,CJEJ77SO3,73.1,Language,Shorten sentences; check grammar in templates.,No,Yes,9
+QP0VHITRW,RX70EUX,CP71ASFII,69.2,Language,Shorten sentences; check grammar in templates.,No,Yes,9
+QNQSECZKN,RV5J536,CG4O8EQ6B,65.3,Policy,Missed policy nuance; add the required verification step.,No,Yes,20
+QBY1O7PJZ,ROD2CCE,CW23HH7TP,81.2,Empathy,Improve tone and acknowledgment before solution.,Yes,No,8
+QKHO36MBD,RYZBJPT,CMC7G3GLV,70.9,Policy,Missed policy nuance; add the required verification step.,No,Yes,15
+QP18NI7Y5,RS6K3JJ,CVN8DMEM8,80.0,Compliance,Avoid free‑form refunds; follow threshold table.,Yes,No,9
+QAMS95Z81,RO60RRW,C6EKCA47F,76.1,Policy,Missed policy nuance; add the required verification step.,Yes,Yes,19
+Q8LHLZMXM,R1NKAAB,CPBY1KMIO,95.7,Policy,Missed policy nuance; add the required verification step.,Yes,No,25
+Q2BYAOVLZ,RQTPZN2,CEN7PEX85,71.9,Policy,Missed policy nuance; add the required verification step.,No,Yes,10
+QA62WYUM7,RYZBJPT,C5VQL7ZG8,74.7,Empathy,Improve tone and acknowledgment before solution.,No,Yes,7
+QWIHQDVQF,RO60RRW,CCKZK05CA,75.9,Compliance,Avoid free‑form refunds; follow threshold table.,Yes,Yes,3
+QKZY0OLGJ,REU373Y,CI9XBI057,81.0,Compliance,Avoid free‑form refunds; follow threshold table.,Yes,No,8
+QEZ5ZQLPJ,REU373Y,C0UTRIRA8,71.8,Compliance,Avoid free‑form refunds; follow threshold table.,No,Yes,6
+Q44UFZ0PU,RYZBJPT,CVRRBQM35,100.0,Language,Shorten sentences; check grammar in templates.,Yes,No,12
+QGS62HB02,RILR9IM,CJK35M072,97.8,Empathy,Improve tone and acknowledgment before solution.,No,Yes,9
+QS98WDMX2,R1NKAAB,CM0TJS5I0,97.2,Language,Shorten sentences; check grammar in templates.,Yes,No,17
+Q301GG4TP,RJX8UH8,CF3U7PHV7,72.5,Policy,Missed policy nuance; add the required verification step.,No,Yes,17
+QYDONM5CW,R7V5FWU,C1WCKG0BH,78.0,Compliance,Avoid free‑form refunds; follow threshold table.,No,Yes,11
+QRATNXCGG,R1NKAAB,CF3U7PHV7,94.4,Language,Shorten sentences; check grammar in templates.,No,Yes,14
+QQ6EFW4AZ,RV5J536,CGFQ62SHM,84.1,Policy,Missed policy nuance; add the required verification step.,No,Yes,9
+Q2ZJGXJX6,R1NKAAB,CANKVJ8KS,83.4,Empathy,Improve tone and acknowledgment before solution.,Yes,No,6
+QS1FLEL86,RE2MZO2,C3MPLSEPG,90.0,Empathy,Improve tone and acknowledgment before solution.,Yes,No,12
+QCJYP9Q40,RO60RRW,C03PK8QLP,87.1,Compliance,Avoid free‑form refunds; follow threshold table.,Yes,No,7
+QP1EUTASX,RKBQMI1,C2TQONTYP,73.7,Compliance,Avoid free‑form refunds; follow threshold table.,No,Yes,8
+QEGZHMGPI,RGTYOX0,C4U1VMXWZ,69.9,Empathy,Improve tone and acknowledgment before solution.,No,Yes,16
+QFZXQNBUT,RO60RRW,C3BPVSY2O,78.9,Policy,Missed policy nuance; add the required verification step.,Yes,No,3
+QWKQYGIKP,RYZBJPT,CFLQUXY4C,100.0,Policy,Missed policy nuance; add the required verification step.,Yes,No,15
+Q0TU91IQ0,RO60RRW,CO7YD4426,71.4,Policy,Missed policy nuance; add the required verification step.,No,Yes,7
+Q1L6S5HLW,RDHQQWC,C1B4OO85B,81.9,Language,Shorten sentences; check grammar in templates.,Yes,No,12
+Q9CFLVG9R,RYZBJPT,CAP9PZJ11,68.6,Empathy,Improve tone and acknowledgment before solution.,No,Yes,14
+QOH9KRXBH,RV5J536,CTWQF6194,65.6,Empathy,Improve tone and acknowledgment before solution.,No,Yes,8
+QSNLS232B,RE2MZO2,CLH1YIYZT,75.8,Empathy,Improve tone and acknowledgment before solution.,Yes,Yes,10
+QIVWY5CBQ,RO60RRW,C1TX49DZI,87.4,Policy,Missed policy nuance; add the required verification step.,Yes,No,9
+QFQTC8WZT,RILR9IM,CAVXNQ2NC,68.3,Compliance,Avoid free‑form refunds; follow threshold table.,No,Yes,7
+QM4G8Z96I,RXYNE26,CF1ZMC8Q6,90.6,Policy,Missed policy nuance; add the required verification step.,No,Yes,11
+QTUC068U9,RQTPZN2,C84XNH42I,83.6,Empathy,Improve tone and acknowledgment before solution.,Yes,No,18
+QNPUULTK8,RYZBJPT,CJKPBYWLN,89.2,Policy,Missed policy nuance; add the required verification step.,Yes,No,10
+Q3CMZN0VR,RYZBJPT,C51LO6BSE,79.9,Policy,Missed policy nuance; add the required verification step.,Yes,No,11
+QV6578WJF,RGQO9D4,CP71ASFII,94.8,Language,Shorten sentences; check grammar in templates.,Yes,No,8
+Q6271DHGE,RABAG5I,CS03PXT8X,71.6,Compliance,Avoid free‑form refunds; follow threshold table.,No,Yes,12
+QGUA4R5PU,R1NKAAB,C1KYYVB58,73.5,Language,Shorten sentences; check grammar in templates.,No,Yes,3
+Q39PDRPHV,RKBQMI1,CK9IBU9D4,84.9,Policy,Missed policy nuance; add the required verification step.,No,Yes,9
+QS6X46E48,RRP3YAQ,C2S9PYD7F,75.9,Language,Shorten sentences; check grammar in templates.,Yes,Yes,5
+QCKTBG9QK,RGQO9D4,CB18RTRCW,67.7,Empathy,Improve tone and acknowledgment before solution.,No,Yes,10
+Q09SRXCPY,RS6K3JJ,CY64R1LQT,74.9,Policy,Missed policy nuance; add the required verification step.,No,Yes,17
+QSBPLL67K,RGQO9D4,CG2NPTP1I,68.4,Policy,Missed policy nuance; add the required verification step.,No,Yes,3
+Q8QLNEE9G,R2KT8NL,C0IHDR1V5,90.9,Language,Shorten sentences; check grammar in templates.,Yes,No,11
+QKK0PCENJ,ROD2CCE,CNVS00K4N,69.2,Policy,Missed policy nuance; add the required verification step.,No,Yes,16
+Q8QR6OOFZ,R3U9XBG,CTDYBJZS1,70.2,Policy,Missed policy nuance; add the required verification step.,No,Yes,17
+QLUMF49ND,REU373Y,CH99N2Z75,86.0,Empathy,Improve tone and acknowledgment before solution.,Yes,No,17
+Q81XYWPSG,R3U9XBG,CB1W2WOV0,94.3,Empathy,Improve tone and acknowledgment before solution.,Yes,No,15
+QDSPVVDBE,R3CIL6P,CBC4C26QL,96.8,Compliance,Avoid free‑form refunds; follow threshold table.,Yes,No,13
+Q2Q5XLFFB,RGTYOX0,CRNYXK8VC,91.9,Empathy,Improve tone and acknowledgment before solution.,Yes,No,16
+QJPBE8M06,ROD2CCE,C3IJ45BKZ,79.6,Compliance,Avoid free‑form refunds; follow threshold table.,Yes,No,12
+QI0BWZFP7,R2KT8NL,C4MR2GH1G,84.4,Empathy,Improve tone and acknowledgment before solution.,Yes,No,13
+QNN4HOYCY,RX70EUX,CESNDSFAE,100.0,Policy,Missed policy nuance; add the required verification step.,Yes,No,15
+QFV47WZV1,RV5J536,CBET30UD1,91.0,Policy,Missed policy nuance; add the required verification step.,No,Yes,14
+QCWJQDENO,RGQO9D4,CSQVGPHFD,79.9,Compliance,Avoid free‑form refunds; follow threshold table.,Yes,No,9
+QYB8MX950,R7V5FWU,CM0DC4VM1,79.2,Policy,Missed policy nuance; add the required verification step.,Yes,No,7
+QDAXZPCRX,R3CIL6P,C0BURTE8I,96.5,Language,Shorten sentences; check grammar in templates.,No,Yes,6
+QX39JLWVV,RGTYOX0,CAU0TN3NZ,86.5,Policy,Missed policy nuance; add the required verification step.,Yes,No,18
+QNPDVGAWK,R6TL5AY,CSK87RAVT,63.5,Policy,Missed policy nuance; add the required verification step.,No,Yes,6
+QNHPK8Y6M,RXYNE26,C1LC7RD79,74.7,Empathy,Improve tone and acknowledgment before solution.,No,Yes,14
+QZW9XQA2M,RILR9IM,C7EV2IJR5,90.0,Policy,Missed policy nuance; add the required verification step.,Yes,No,15
+Q3TB3PN0K,RKBQMI1,CCQ8OTTXG,75.1,Empathy,Improve tone and acknowledgment before solution.,Yes,Yes,15
+Q5RBE89DY,RJX8UH8,C5VQL7ZG8,66.5,Language,Shorten sentences; check grammar in templates.,No,Yes,21
+QWX0ID9L8,R7V5FWU,CEJT55GYD,90.3,Empathy,Improve tone and acknowledgment before solution.,Yes,No,21
+QVHM0AV1M,RYZBJPT,C18UV0JLW,87.5,Policy,Missed policy nuance; add the required verification step.,Yes,No,23
+Q6BYMHHBE,RS6K3JJ,CK7IB1W6Q,84.0,Empathy,Improve tone and acknowledgment before solution.,Yes,No,4
+QGBWBWP5N,RSHG3JO,CHTT2J7Q3,73.0,Empathy,Improve tone and acknowledgment before solution.,No,Yes,15
+QDFV29VXK,RKBQMI1,CA2R8U4FF,83.8,Empathy,Improve tone and acknowledgment before solution.,Yes,No,6
+Q77SH1EMT,RABAG5I,C81D3YSF9,100.0,Language,Shorten sentences; check grammar in templates.,Yes,No,6
+QT4E3SYGW,R7V5FWU,CDNSYD3Q5,53.7,Compliance,Avoid free‑form refunds; follow threshold table.,No,Yes,16
+QUXLUUYLM,RVOJX6Q,CEKO45OLT,84.2,Empathy,Improve tone and acknowledgment before solution.,Yes,No,12
+Q4LD9ZM4M,R1NKAAB,C90B3F0WK,89.6,Compliance,Avoid free‑form refunds; follow threshold table.,Yes,No,20
+QVOM4ZRAZ,R1NKAAB,CMY5XSXCV,79.3,Policy,Missed policy nuance; add the required verification step.,Yes,No,21
+QCGNAOEE4,R1NKAAB,CYMQZP3T9,83.1,Language,Shorten sentences; check grammar in templates.,Yes,No,15
+Q66IQ1J06,R1VCYW5,CZ77R8TXV,87.9,Compliance,Avoid free‑form refunds; follow threshold table.,Yes,No,3
+QZO5524T5,RILR9IM,CS03PXT8X,93.8,Language,Shorten sentences; check grammar in templates.,Yes,No,14
+Q2SJZXSWI,RVLO5D3,CIXQEZ3UG,66.9,Policy,Missed policy nuance; add the required verification step.,No,Yes,13
+QGJRZM720,RQTPZN2,CKXMRGPIE,84.8,Compliance,Avoid free‑form refunds; follow threshold table.,Yes,No,16
+QNE829RL8,RGTYOX0,CFVDXWD1O,78.1,Policy,Missed policy nuance; add the required verification step.,Yes,No,11
+QFN1L2681,RQTPZN2,C7IO4WOJB,93.5,Compliance,Avoid free‑form refunds; follow threshold table.,No,Yes,19
+QXRVDK3W4,RXYNE26,CM0DC4VM1,86.8,Compliance,Avoid free‑form refunds; follow threshold table.,Yes,No,13
+QP1PPXDMF,RVLO5D3,CPZ1RQQ5N,91.9,Empathy,Improve tone and acknowledgment before solution.,Yes,No,6
+QS39DDLK6,RO60RRW,C8XRJSNWB,85.9,Language,Shorten sentences; check grammar in templates.,Yes,No,5
+Q6BSH5SBA,RJX8UH8,CX68UZ72K,96.7,Empathy,Improve tone and acknowledgment before solution.,Yes,No,3
+Q2F0I84CG,RSHG3JO,CNVS00K4N,79.5,Language,Shorten sentences; check grammar in templates.,Yes,No,15
+QYGEO6SX9,RGTYOX0,CEJ7TML4K,90.4,Empathy,Improve tone and acknowledgment before solution.,Yes,No,6
+QO4YE6VUZ,RRP3YAQ,C5RUK7R1M,84.6,Empathy,Improve tone and acknowledgment before solution.,Yes,No,12
+QKUYZWQX0,RGTYOX0,C2WROF7XL,82.1,Policy,Missed policy nuance; add the required verification step.,Yes,No,17
+Q1K7CAS4A,RBOEB9D,C5IUQFOCG,77.6,Policy,Missed policy nuance; add the required verification step.,Yes,Yes,3
+QB4A918CC,RV5J536,CC7NRWXA5,68.9,Policy,Missed policy nuance; add the required verification step.,No,Yes,14
+QHVJ6BZ7P,RSHG3JO,CFPSTISKY,75.2,Compliance,Avoid free‑form refunds; follow threshold table.,No,Yes,11
+Q62D25TQ9,RGQO9D4,CGZSWZ92W,76.3,Policy,Missed policy nuance; add the required verification step.,Yes,Yes,11
+QK33K35RT,RO60RRW,CIQMOZI61,95.0,Compliance,Avoid free‑form refunds; follow threshold table.,Yes,No,9
+Q7OIC5GP1,RVLO5D3,CKP89F6D0,74.7,Policy,Missed policy nuance; add the required verification step.,No,Yes,16
+Q7N45G7BN,REU373Y,CV7OEI60D,81.9,Empathy,Improve tone and acknowledgment before solution.,Yes,No,16
+QHX3KQ6HP,R7V5FWU,CA1MXON5D,96.8,Policy,Missed policy nuance; add the required verification step.,Yes,No,18
+QUZWU0TWC,R3U9XBG,CUQ8S7HQF,87.3,Empathy,Improve tone and acknowledgment before solution.,Yes,No,10
+Q109W8WTU,RE2MZO2,C246KZVQO,77.9,Policy,Missed policy nuance; add the required verification step.,Yes,Yes,12
+QSQUUP5FN,RS6K3JJ,CK03LE6FV,71.3,Empathy,Improve tone and acknowledgment before solution.,No,Yes,6
+QCPVSG4WZ,RXYNE26,C03PK8QLP,85.2,Policy,Missed policy nuance; add the required verification step.,Yes,No,14
+QQBJLB1N2,RGQO9D4,CCQD4SLAR,84.3,Empathy,Improve tone and acknowledgment before solution.,Yes,No,4
+QJNLS8XYF,ROD2CCE,CARAFWZK2,95.4,Empathy,Improve tone and acknowledgment before solution.,No,Yes,22
+Q4POIMN03,RE2MZO2,CVI6R5YMI,90.5,Empathy,Improve tone and acknowledgment before solution.,Yes,No,9
+QGZFQVU2J,R1NKAAB,CHTI8C824,85.5,Empathy,Improve tone and acknowledgment before solution.,Yes,No,10
+QL1KDVHVD,RE2MZO2,CV1UN044H,76.7,Compliance,Avoid free‑form refunds; follow threshold table.,Yes,Yes,15
+QGD6CRH1E,RDHQQWC,CLIKFB7C5,90.1,Empathy,Improve tone and acknowledgment before solution.,Yes,No,8
+Q671AZZZX,RBOEB9D,CUX955WMP,73.1,Empathy,Improve tone and acknowledgment before solution.,No,Yes,13
+Q6RYXE6XR,R2KT8NL,CLGZCS08K,89.3,Language,Shorten sentences; check grammar in templates.,Yes,No,15
+QFSB18BD7,RQTPZN2,CDNSYD3Q5,79.6,Compliance,Avoid free‑form refunds; follow threshold table.,Yes,No,19
+QMJCYW5UY,RVOJX6Q,C0UTRIRA8,80.7,Empathy,Improve tone and acknowledgment before solution.,No,Yes,12
+Q4YRO2F4W,RGTYOX0,CZK4N6IT1,96.0,Compliance,Avoid free‑form refunds; follow threshold table.,Yes,No,10
+QCCKA1XQ3,REU373Y,CQ0I934CU,97.3,Language,Shorten sentences; check grammar in templates.,Yes,No,15
+Q2RXD2SP5,RGTYOX0,CL4BQ28JX,80.2,Empathy,Improve tone and acknowledgment before solution.,Yes,No,12
+QOF0U1M86,RILR9IM,CEFJ9G6Y7,81.1,Language,Shorten sentences; check grammar in templates.,Yes,No,20
+QFJ4X961B,RVLO5D3,CC1ZNWNJP,79.0,Policy,Missed policy nuance; add the required verification step.,Yes,No,14
+QWD6YMZLE,R3U9XBG,C2Y78ZNVP,74.9,Policy,Missed policy nuance; add the required verification step.,No,Yes,10
+QXUDBDII7,RQTPZN2,CWOWLMVUU,75.6,Empathy,Improve tone and acknowledgment before solution.,Yes,Yes,16
+QX8KWJQLF,RSHG3JO,C6V4GCT31,93.5,Policy,Missed policy nuance; add the required verification step.,Yes,No,6
+Q98GH6WT2,RRP3YAQ,CMJ3BMKJG,79.3,Empathy,Improve tone and acknowledgment before solution.,Yes,No,6
+QVRZJA24W,RGTYOX0,C6EV7X8ML,91.4,Empathy,Improve tone and acknowledgment before solution.,Yes,No,20
+Q3LC3G7TS,RKBQMI1,C7P9C0VII,77.8,Policy,Missed policy nuance; add the required verification step.,Yes,Yes,10
+QEPJLVU5Q,RXYNE26,C1HNV5IVC,87.6,Empathy,Improve tone and acknowledgment before solution.,Yes,No,17
+QDE5CZZHI,RS6K3JJ,C5ZGFVBLE,79.9,Policy,Missed policy nuance; add the required verification step.,No,Yes,12
+QPCC3O13O,RGTYOX0,C35TWZSGP,87.5,Empathy,Improve tone and acknowledgment before solution.,Yes,No,28
+Q8MI673MJ,R2KT8NL,C4TZRPW3M,84.8,Empathy,Improve tone and acknowledgment before solution.,Yes,No,12
+QXXCB3CL1,RVLO5D3,CK600J9QT,80.7,Empathy,Improve tone and acknowledgment before solution.,Yes,No,9
+QZOE82BJO,RT9XGGL,CKZQQXND4,79.3,Policy,Missed policy nuance; add the required verification step.,Yes,No,5
+QDDGL77U7,R3U9XBG,CY7P30UGU,78.7,Policy,Missed policy nuance; add the required verification step.,Yes,No,15
+QRCUNJN6Z,RABAG5I,CANKVJ8KS,100.0,Policy,Missed policy nuance; add the required verification step.,Yes,No,16
+Q9F05VXSF,RV5J536,CH2C419Y5,83.6,Compliance,Avoid free‑form refunds; follow threshold table.,No,Yes,14
+QJHK2S2Z2,RABAG5I,CGRH6JFU5,75.3,Empathy,Improve tone and acknowledgment before solution.,Yes,Yes,13
+QMJR9480S,RJX8UH8,C8VKM0Q45,84.1,Language,Shorten sentences; check grammar in templates.,Yes,No,13
+Q5P9648I9,RILR9IM,CFKSMA40S,92.2,Empathy,Improve tone and acknowledgment before solution.,Yes,No,9
+QOXVNW6MN,ROD2CCE,CITRZHX1N,88.5,Policy,Missed policy nuance; add the required verification step.,No,Yes,6
+QVU5DHQU7,R2KT8NL,CTHV0MENH,80.4,Empathy,Improve tone and acknowledgment before solution.,Yes,No,15
+QU9FLG344,R1VCYW5,C7D16XOFY,74.4,Empathy,Improve tone and acknowledgment before solution.,No,Yes,9
+QTF8E4JHV,RE2MZO2,COMZOQPJE,80.5,Language,Shorten sentences; check grammar in templates.,Yes,No,15
+QP63CIJS3,RE2MZO2,CIQMOZI61,60.4,Compliance,Avoid free‑form refunds; follow threshold table.,No,Yes,9
+QT37GXJDI,REU373Y,C4EWN1C6Z,72.9,Language,Shorten sentences; check grammar in templates.,No,Yes,9
+QWBFT8C5C,RE2MZO2,C0LI7RBRQ,73.3,Empathy,Improve tone and acknowledgment before solution.,No,Yes,18
+Q807YGQ5Y,RO60RRW,CPD340WOT,96.0,Compliance,Avoid free‑form refunds; follow threshold table.,Yes,No,11
+QRBLIZH3K,RABAG5I,CRL283PSQ,70.8,Language,Shorten sentences; check grammar in templates.,No,Yes,16
+QYBGAYXFT,RE2MZO2,CBIUBMF7C,86.7,Policy,Missed policy nuance; add the required verification step.,Yes,No,6
+QG7NQ8UFC,RX70EUX,CMALPTXIV,65.4,Empathy,Improve tone and acknowledgment before solution.,No,Yes,6
+QVW6AL3DL,REU373Y,CZTC65UZO,87.2,Policy,Missed policy nuance; add the required verification step.,Yes,No,13
+Q0TQTXKLM,RE2MZO2,CQX8PH0AQ,79.9,Language,Shorten sentences; check grammar in templates.,Yes,No,14
+QRJF846F8,R2KT8NL,CUZAQS6LI,75.8,Compliance,Avoid free‑form refunds; follow threshold table.,No,Yes,12
+QE04SUN3Z,R2KT8NL,CTF2MD9GA,93.6,Language,Shorten sentences; check grammar in templates.,Yes,No,11
+QA0LD2IIF,R2KT8NL,CQEYRLIUY,78.3,Compliance,Avoid free‑form refunds; follow threshold table.,Yes,No,15
+QAPIRE1WF,RV5J536,C7SSQPYUF,74.6,Policy,Missed policy nuance; add the required verification step.,No,Yes,5
+Q8LWOJHSF,RBOEB9D,C2Q9CG8KL,82.0,Policy,Missed policy nuance; add the required verification step.,No,Yes,11
+QJGSZ00KO,ROD2CCE,CVIZV3FIK,96.8,Language,Shorten sentences; check grammar in templates.,Yes,No,8
+QOLDO4WE4,R3CIL6P,CGHA063NV,96.7,Compliance,Avoid free‑form refunds; follow threshold table.,Yes,No,3
+QUQQYZGK6,RDHQQWC,CAV1DDJ4S,79.3,Policy,Missed policy nuance; add the required verification step.,Yes,No,20
+QPEI7GXXQ,RV5J536,CSB45TLDW,86.5,Compliance,Avoid free‑form refunds; follow threshold table.,Yes,No,9
+QZJK2U6W9,RGTYOX0,CUZAQS6LI,83.5,Policy,Missed policy nuance; add the required verification step.,Yes,No,10
+QIUOUPC7Y,R2KT8NL,CKXCYULZX,73.3,Policy,Missed policy nuance; add the required verification step.,No,Yes,4
+QCGKT0Q3F,RKBQMI1,CPLFVUAOK,93.4,Language,Shorten sentences; check grammar in templates.,Yes,No,3
+QEU8Y59XD,RILR9IM,CGXK22W8T,85.1,Empathy,Improve tone and acknowledgment before solution.,Yes,No,5
+QDZFPX4L6,R3U9XBG,C7SUGI3KV,99.3,Language,Shorten sentences; check grammar in templates.,Yes,No,9
+QEV4N4JKG,R3CIL6P,CYMQZP3T9,100.0,Empathy,Improve tone and acknowledgment before solution.,No,Yes,16
+QW6KIYRYG,RILR9IM,CA1LSKRQT,81.3,Compliance,Avoid free‑form refunds; follow threshold table.,Yes,No,9
+QP1MO2DPK,RE2MZO2,CVBMP9HJO,82.1,Empathy,Improve tone and acknowledgment before solution.,Yes,No,13
+QZR88CDA2,R3CIL6P,C5PDL2SUP,65.7,Empathy,Improve tone and acknowledgment before solution.,No,Yes,4
+QVKFLGLA0,RVOJX6Q,CODZEGF59,88.1,Policy,Missed policy nuance; add the required verification step.,Yes,No,8
+QL2OCGKIY,RVLO5D3,CZZ319UK5,98.9,Policy,Missed policy nuance; add the required verification step.,Yes,No,14
+QL150W0KC,RYZBJPT,CQWHF4HSJ,69.3,Policy,Missed policy nuance; add the required verification step.,No,Yes,12
+QTDJVIFKS,RT9XGGL,CRE4L7N5T,59.8,Policy,Missed policy nuance; add the required verification step.,No,Yes,4
+QX8PGG92K,RSHG3JO,COOUHZYQG,91.5,Language,Shorten sentences; check grammar in templates.,Yes,No,15
+QID9TCKTH,RV5J536,CF8PRQ2CC,72.6,Empathy,Improve tone and acknowledgment before solution.,No,Yes,12
+QDP3GN9WM,RVOJX6Q,C6O8UNAVX,83.4,Compliance,Avoid free‑form refunds; follow threshold table.,Yes,No,15
+Q6SBYS3KU,RGQO9D4,CZBQVEKMX,100.0,Language,Shorten sentences; check grammar in templates.,Yes,No,9
+QT12ZPGBK,RV5J536,CGRU3O6VC,65.2,Empathy,Improve tone and acknowledgment before solution.,No,Yes,11
+QVYAX4DLP,R1VCYW5,C9DK4TGH1,98.6,Compliance,Avoid free‑form refunds; follow threshold table.,Yes,No,20
+QPWOAUN15,ROD2CCE,CEFJ9G6Y7,77.8,Empathy,Improve tone and acknowledgment before solution.,Yes,Yes,17
+QDR5R96JO,RVLO5D3,CDBLF4HK9,67.0,Policy,Missed policy nuance; add the required verification step.,No,Yes,5
+QHI7U55PT,RS6K3JJ,CA7DA7G3B,84.4,Policy,Missed policy nuance; add the required verification step.,Yes,No,15
+Q5O3OFRFO,R1VCYW5,CES5NB8PG,76.2,Policy,Missed policy nuance; add the required verification step.,Yes,Yes,11
+QVJ3VESE0,R7V5FWU,CN6RZQJ18,71.3,Policy,Missed policy nuance; add the required verification step.,No,Yes,11
+QLL87656G,RS6K3JJ,CGT2CC4CW,91.9,Policy,Missed policy nuance; add the required verification step.,No,Yes,19
+Q2JBOVBQT,RV5J536,CFW4D0F0P,60.4,Empathy,Improve tone and acknowledgment before solution.,No,Yes,7
+Q5HKV4KQY,RKBQMI1,CVI6R5YMI,76.4,Empathy,Improve tone and acknowledgment before solution.,Yes,Yes,12
+QKBDZDGO2,RX70EUX,CIHIEIXK2,82.7,Empathy,Improve tone and acknowledgment before solution.,Yes,No,12
+QAPQH267Y,RBOEB9D,CN2FPYZPC,86.6,Policy,Missed policy nuance; add the required verification step.,Yes,No,9
+QDTJ7T1S6,R7V5FWU,CP8D9FK30,82.6,Empathy,Improve tone and acknowledgment before solution.,Yes,No,12
+QXQWU2IAO,RX70EUX,CJEJ77SO3,89.1,Compliance,Avoid free‑form refunds; follow threshold table.,Yes,No,6
+Q36283BAV,RXYNE26,CHPTWSM8S,85.7,Language,Shorten sentences; check grammar in templates.,Yes,No,9
+QYHUYPCCN,RRP3YAQ,CWHRX8KJ0,64.2,Policy,Missed policy nuance; add the required verification step.,No,Yes,7
+QYEODP84Y,RJX8UH8,CTZH0HYL0,86.8,Compliance,Avoid free‑form refunds; follow threshold table.,Yes,No,9
+QLHB1XONX,RO60RRW,C2Y78ZNVP,70.6,Empathy,Improve tone and acknowledgment before solution.,No,Yes,11
+QWWJJDFDW,ROD2CCE,CNVS00K4N,79.4,Policy,Missed policy nuance; add the required verification step.,Yes,No,3
+QPZ8OKPUE,RXYNE26,CTF2MD9GA,80.4,Empathy,Improve tone and acknowledgment before solution.,Yes,No,13
+QUL414UZC,R1NKAAB,C8JBLWTCU,96.8,Policy,Missed policy nuance; add the required verification step.,Yes,No,12
+QYQ2S04CE,R6TL5AY,CWYUYVC1Q,90.3,Compliance,Avoid free‑form refunds; follow threshold table.,Yes,No,11
+QSBD8JP24,R7V5FWU,CNEO7J6JG,80.9,Empathy,Improve tone and acknowledgment before solution.,No,Yes,23
+Q0ST3XXR4,R3U9XBG,CCHMNNO1E,69.2,Compliance,Avoid free‑form refunds; follow threshold table.,No,Yes,11
+QNVM0E4RI,RXYNE26,CQ29278DJ,70.0,Policy,Missed policy nuance; add the required verification step.,No,Yes,3
+QJM76E64T,R1VCYW5,CQF413HA6,79.8,Compliance,Avoid free‑form refunds; follow threshold table.,Yes,No,9
+QN19P1IWX,RGTYOX0,CSQVGPHFD,83.7,Policy,Missed policy nuance; add the required verification step.,Yes,No,12
+Q3NABT363,RVOJX6Q,CX45C51HL,77.8,Empathy,Improve tone and acknowledgment before solution.,Yes,Yes,11
+QULIQ58BM,RO60RRW,C7WRPWUSF,90.5,Empathy,Improve tone and acknowledgment before solution.,Yes,No,13
+Q1CO19KKI,RGQO9D4,CD0X0T28U,82.5,Empathy,Improve tone and acknowledgment before solution.,Yes,No,10
+QZUPK2YY1,R3CIL6P,CGULDPXL8,82.5,Empathy,Improve tone and acknowledgment before solution.,No,Yes,8
+QK7I77VDW,RILR9IM,CRH55GMJ7,72.3,Policy,Missed policy nuance; add the required verification step.,No,Yes,17
+QJ4DC6EO5,RVOJX6Q,C3P50Z5G1,73.3,Empathy,Improve tone and acknowledgment before solution.,No,Yes,16
+Q994SGBDI,RGQO9D4,CQATB7VNR,97.8,Empathy,Improve tone and acknowledgment before solution.,Yes,No,18
+Q9QZA29HA,RRP3YAQ,CQFM8JGYH,86.3,Language,Shorten sentences; check grammar in templates.,Yes,No,19
+Q2Y2UNJKS,RKBQMI1,CMFMTYD55,89.6,Policy,Missed policy nuance; add the required verification step.,Yes,No,5
+QRNODXBZ4,RKBQMI1,CYAUUN95B,77.2,Policy,Missed policy nuance; add the required verification step.,Yes,Yes,5
+QAT1VIQ84,ROD2CCE,CZT3ZFCPR,68.8,Policy,Missed policy nuance; add the required verification step.,No,Yes,12
+Q74BKPXIO,RT9XGGL,CJZ247EE7,64.4,Compliance,Avoid free‑form refunds; follow threshold table.,No,Yes,7
+QDBMHTZJQ,R3CIL6P,CO9B5YK24,81.8,Policy,Missed policy nuance; add the required verification step.,Yes,No,13
+QAU2TUQCY,RXYNE26,CMXZ4O7LH,82.3,Compliance,Avoid free‑form refunds; follow threshold table.,Yes,No,11
+QQBDC3BTK,R1NKAAB,CITRZHX1N,64.3,Compliance,Avoid free‑form refunds; follow threshold table.,No,Yes,21
+Q2MP3JTKC,RV5J536,CNRBECC54,74.0,Empathy,Improve tone and acknowledgment before solution.,No,Yes,9
+Q1ROZXRBC,RDHQQWC,CG41WKMPX,91.2,Policy,Missed policy nuance; add the required verification step.,Yes,No,16
+QDTRCGZVF,REU373Y,C9KERSXL8,82.9,Compliance,Avoid free‑form refunds; follow threshold table.,Yes,No,15
+QHVZGWDVN,ROD2CCE,CGRU3O6VC,86.3,Empathy,Improve tone and acknowledgment before solution.,No,Yes,12
+QVIPEOAO4,RVOJX6Q,CJMVA3KCL,86.8,Policy,Missed policy nuance; add the required verification step.,Yes,No,8
+QOYO3KZU6,RKBQMI1,CVWR7EJDY,81.6,Empathy,Improve tone and acknowledgment before solution.,Yes,No,12
+QC7PXAFZJ,ROD2CCE,CV7OEI60D,78.9,Empathy,Improve tone and acknowledgment before solution.,Yes,No,6
+QWI9PZ15S,R3CIL6P,CLSS9OAPU,60.3,Empathy,Improve tone and acknowledgment before solution.,No,Yes,16
+QXAH3DRCK,ROD2CCE,CEKO45OLT,100.0,Compliance,Avoid free‑form refunds; follow threshold table.,Yes,No,4
+QL4VUT3TZ,RGTYOX0,CB18RTRCW,84.5,Policy,Missed policy nuance; add the required verification step.,Yes,No,17
+QF545A9PV,RGTYOX0,CACFZKCAR,63.8,Empathy,Improve tone and acknowledgment before solution.,No,Yes,14
+Q2U8NEXV6,R3CIL6P,CTF2MD9GA,76.5,Compliance,Avoid free‑form refunds; follow threshold table.,Yes,Yes,16
+QUVKDXP96,RT9XGGL,CHTT2J7Q3,87.2,Compliance,Avoid free‑form refunds; follow threshold table.,Yes,No,11
+QK1CQDV6P,RV5J536,CFHFUN6JT,82.3,Policy,Missed policy nuance; add the required verification step.,Yes,No,11
+Q0ZXW5OFK,R3CIL6P,C84TVNEU3,78.8,Policy,Missed policy nuance; add the required verification step.,Yes,No,7
+QNIIK0A88,RV5J536,CT0NTKJEL,88.8,Compliance,Avoid free‑form refunds; follow threshold table.,Yes,No,13
+Q1E058FFC,RX70EUX,CMSU53K6S,78.1,Empathy,Improve tone and acknowledgment before solution.,Yes,No,15
+QE8OKQ733,R3CIL6P,CFAKEO5FA,78.9,Empathy,Improve tone and acknowledgment before solution.,Yes,No,17
+Q51JIS2DW,RABAG5I,CELXQPR99,100.0,Policy,Missed policy nuance; add the required verification step.,Yes,No,13
+QFYLCCT48,R6TL5AY,CSR0STL78,84.3,Empathy,Improve tone and acknowledgment before solution.,Yes,No,7
+Q7FGCEOL8,RSHG3JO,CVWMNYBIV,79.6,Empathy,Improve tone and acknowledgment before solution.,Yes,No,11
+QLUL65Z4E,RJX8UH8,CQHKYAH6D,59.6,Empathy,Improve tone and acknowledgment before solution.,No,Yes,5
+QA5UAX556,RV5J536,CYAUUN95B,82.1,Language,Shorten sentences; check grammar in templates.,Yes,No,17
+QGH47S5YH,RO60RRW,CTRL1DJER,54.3,Language,Shorten sentences; check grammar in templates.,No,Yes,13
+QA5HGPT7T,REU373Y,C1TX49DZI,66.7,Policy,Missed policy nuance; add the required verification step.,No,Yes,10
+QG5LLDPX9,RQTPZN2,CQVFW7ELY,75.2,Empathy,Improve tone and acknowledgment before solution.,Yes,Yes,5
+QQXZO4BLN,RX70EUX,CY7P30UGU,74.8,Empathy,Improve tone and acknowledgment before solution.,No,Yes,11
+QRK0SEQOA,RYZBJPT,C1M4P0DD2,69.0,Compliance,Avoid free‑form refunds; follow threshold table.,No,Yes,20
+QNZ2SICQG,RJX8UH8,CXHQGA42S,78.3,Policy,Missed policy nuance; add the required verification step.,Yes,No,7
+Q2DRRHE66,RT9XGGL,CLIKFB7C5,84.8,Language,Shorten sentences; check grammar in templates.,Yes,No,8
+QKSLB00XB,RBOEB9D,COW57K9WC,70.4,Policy,Missed policy nuance; add the required verification step.,No,Yes,16
+Q6AQK7WHK,RDHQQWC,COI9SEC47,68.6,Empathy,Improve tone and acknowledgment before solution.,No,Yes,9
+QI5KR8OYV,RT9XGGL,C00NJA78I,73.7,Compliance,Avoid free‑form refunds; follow threshold table.,No,Yes,18
+QSLV2DFF7,RDHQQWC,CTC2VK9XY,68.3,Language,Shorten sentences; check grammar in templates.,No,Yes,12
+QJLVN7DG3,RBOEB9D,CWYEN2WEB,91.8,Empathy,Improve tone and acknowledgment before solution.,Yes,No,16
+QK9SA04EU,R1NKAAB,CLJ1GBB5N,84.0,Language,Shorten sentences; check grammar in templates.,Yes,No,19
+QTZ4VPXOY,RT9XGGL,C27WWWRPW,70.7,Policy,Missed policy nuance; add the required verification step.,No,Yes,5
+QAO7R4DP5,RVLO5D3,C00NJA78I,96.7,Empathy,Improve tone and acknowledgment before solution.,Yes,No,10
+QR2OMT1BB,ROD2CCE,C7PF3WZDL,65.9,Compliance,Avoid free‑form refunds; follow threshold table.,No,Yes,12
+QBFB2W7LB,RSHG3JO,CUQ8S7HQF,71.3,Empathy,Improve tone and acknowledgment before solution.,No,Yes,14
+QL13K39G4,RT9XGGL,CPNGYIK28,78.8,Policy,Missed policy nuance; add the required verification step.,Yes,No,19
+Q46KIUMXN,R3CIL6P,CFEI4Q5XT,73.6,Language,Shorten sentences; check grammar in templates.,No,Yes,6
+Q7M4Y9ULZ,RT9XGGL,CNVS00K4N,87.1,Empathy,Improve tone and acknowledgment before solution.,Yes,No,19
+QCCX6PDG9,R6TL5AY,CTDYBJZS1,89.1,Policy,Missed policy nuance; add the required verification step.,Yes,No,4
+QMAOAUVMF,RO60RRW,C2BGRGLXF,90.6,Language,Shorten sentences; check grammar in templates.,Yes,No,9
+QXRZF32PB,RSHG3JO,CUQSUBFIE,74.9,Policy,Missed policy nuance; add the required verification step.,No,Yes,12
+QNHA4380H,R1VCYW5,C7P9C0VII,92.5,Policy,Missed policy nuance; add the required verification step.,Yes,No,14
+QO4ALGGHN,R6TL5AY,CNT8HFJ5B,74.2,Policy,Missed policy nuance; add the required verification step.,No,Yes,15
+Q322DDPCA,ROD2CCE,CEX7Y1J3P,67.9,Compliance,Avoid free‑form refunds; follow threshold table.,No,Yes,15
+QLYPZCRLK,RE2MZO2,CFO4H8VVL,79.0,Policy,Missed policy nuance; add the required verification step.,Yes,No,14
+Q7X169JLI,RO60RRW,CQATB7VNR,69.7,Policy,Missed policy nuance; add the required verification step.,No,Yes,9
+QY0RNO7DZ,RXYNE26,CI3QDJBR9,93.4,Language,Shorten sentences; check grammar in templates.,Yes,No,8
+Q7WPQ8TUX,RGTYOX0,CXU8OKBAN,90.7,Policy,Missed policy nuance; add the required verification step.,No,Yes,17
+QVMXV07DZ,RX70EUX,C5COQ2EPF,84.4,Policy,Missed policy nuance; add the required verification step.,Yes,No,15
+QVJZSGGAU,RX70EUX,C7U9AWB7Y,73.1,Language,Shorten sentences; check grammar in templates.,No,Yes,5
+QI8P5N6YI,REU373Y,C7MMDPRXF,93.2,Language,Shorten sentences; check grammar in templates.,Yes,No,6
+QV413OS6Q,R2KT8NL,CIBBN8BND,78.4,Language,Shorten sentences; check grammar in templates.,Yes,No,7
+QHVB2A4IJ,RILR9IM,C3WWYE0IS,82.8,Compliance,Avoid free‑form refunds; follow threshold table.,Yes,No,11
+Q62J6QA40,RVOJX6Q,CDD3LJUHB,70.9,Policy,Missed policy nuance; add the required verification step.,No,Yes,9
+QBSN93QUW,RILR9IM,CWYQKS8VZ,95.2,Empathy,Improve tone and acknowledgment before solution.,Yes,No,7
+QBF6JTTK4,RRP3YAQ,CNDVPBUHI,77.9,Policy,Missed policy nuance; add the required verification step.,Yes,Yes,9
+QHA0QMJWS,RBOEB9D,CVJJB8D1I,76.0,Compliance,Avoid free‑form refunds; follow threshold table.,Yes,Yes,10
+QP2KESTRO,RJX8UH8,CJABFQX2W,94.5,Compliance,Avoid free‑form refunds; follow threshold table.,Yes,No,4
+QZHSE432Q,REU373Y,CSYSAB86V,84.1,Empathy,Improve tone and acknowledgment before solution.,Yes,No,3
+QVIY9W264,REU373Y,C7WRPWUSF,86.7,Empathy,Improve tone and acknowledgment before solution.,No,Yes,13
+QEPVDIVXD,RKBQMI1,C84TVNEU3,73.4,Policy,Missed policy nuance; add the required verification step.,No,Yes,8
+QSEEMJFBU,R3U9XBG,CM568MIV7,58.4,Compliance,Avoid free‑form refunds; follow threshold table.,No,Yes,19
+QEWXPEKHX,RGTYOX0,CTDYBJZS1,80.5,Policy,Missed policy nuance; add the required verification step.,Yes,No,14
+QZB544QYA,RDHQQWC,CNWE0I60J,79.1,Empathy,Improve tone and acknowledgment before solution.,Yes,No,19
+QR5ML0TCX,R7V5FWU,C1N7XMAYH,74.7,Policy,Missed policy nuance; add the required verification step.,No,Yes,13
+QRDVQNGZ6,RDHQQWC,CELYLVYLX,88.4,Policy,Missed policy nuance; add the required verification step.,Yes,No,17
+QMLH23JN3,RXYNE26,CV7OEI60D,71.0,Empathy,Improve tone and acknowledgment before solution.,No,Yes,18
+QKVUDQSB4,RXYNE26,CKM3EOGRL,60.7,Compliance,Avoid free‑form refunds; follow threshold table.,No,Yes,12
+QV5IMMQP8,REU373Y,C9XOOP3LG,81.9,Compliance,Avoid free‑form refunds; follow threshold table.,Yes,No,14
+QE85UL885,RQTPZN2,CSB45TLDW,93.6,Empathy,Improve tone and acknowledgment before solution.,Yes,No,5
+QH349N8D8,R1VCYW5,C35HVUEQY,91.6,Empathy,Improve tone and acknowledgment before solution.,Yes,No,4
+Q05B55NUS,RX70EUX,C7KPXEUS2,83.4,Policy,Missed policy nuance; add the required verification step.,Yes,No,8
+QOQMZ959K,RJX8UH8,CFPSTISKY,69.8,Empathy,Improve tone and acknowledgment before solution.,No,Yes,14
+Q0PFKEFGV,RO60RRW,CUD7V68GO,91.5,Empathy,Improve tone and acknowledgment before solution.,Yes,No,18
+Q5F1JFI7M,R1NKAAB,C4G7V85UN,88.3,Empathy,Improve tone and acknowledgment before solution.,Yes,No,10
+QG4RIAH3A,RILR9IM,C5IUQFOCG,95.7,Empathy,Improve tone and acknowledgment before solution.,Yes,No,16
+QGDPQ14CI,RDHQQWC,CJDLOWJFG,100.0,Empathy,Improve tone and acknowledgment before solution.,Yes,No,12
+QZPVRUMEJ,RVOJX6Q,CUDD82FKH,90.1,Policy,Missed policy nuance; add the required verification step.,Yes,No,10
+QRWP9RWP0,RYZBJPT,CDU637G29,70.6,Policy,Missed policy nuance; add the required verification step.,No,Yes,18
+QVIK7BYC0,RDHQQWC,CRVBYTADQ,79.4,Language,Shorten sentences; check grammar in templates.,Yes,No,5
+Q9TPCDJ70,RKBQMI1,CT49QCID1,69.0,Compliance,Avoid free‑form refunds; follow threshold table.,No,Yes,13
+QKTYXT581,RVLO5D3,C18IDULPI,85.2,Compliance,Avoid free‑form refunds; follow threshold table.,Yes,No,8
+QRTKG0IDR,R6TL5AY,CXMAVDV1J,80.1,Policy,Missed policy nuance; add the required verification step.,Yes,No,5
+QU46TR26A,R1VCYW5,CD5OTFWGJ,70.6,Empathy,Improve tone and acknowledgment before solution.,No,Yes,14
+QMDO2KSQI,R3U9XBG,C1ML2Y363,83.7,Empathy,Improve tone and acknowledgment before solution.,No,Yes,10
+Q7U471MDO,RBOEB9D,C6BALHRKM,81.5,Policy,Missed policy nuance; add the required verification step.,Yes,No,8
+QOW9OEEGO,R3U9XBG,C69QI0CFU,84.3,Compliance,Avoid free‑form refunds; follow threshold table.,Yes,No,11
+Q3QMOUSAE,RXYNE26,CFPSTISKY,79.0,Language,Shorten sentences; check grammar in templates.,Yes,No,17
+QVN66MAIJ,R3U9XBG,CX0ZCZ0G4,85.0,Compliance,Avoid free‑form refunds; follow threshold table.,Yes,No,11
+QIW2W87RO,RSHG3JO,CXHQGA42S,88.1,Policy,Missed policy nuance; add the required verification step.,Yes,No,10
+QU8888CBU,R1NKAAB,CGT2CC4CW,71.0,Empathy,Improve tone and acknowledgment before solution.,No,Yes,8
+Q54Y96CHE,RGTYOX0,C6BALHRKM,89.3,Empathy,Improve tone and acknowledgment before solution.,Yes,No,11
+QVOC1WEGK,RVLO5D3,C0IQT1PK2,69.9,Policy,Missed policy nuance; add the required verification step.,No,Yes,19
+QCR34RJBP,RYZBJPT,CKXMRGPIE,85.7,Policy,Missed policy nuance; add the required verification step.,Yes,No,18
+Q0DL2M3S1,RO60RRW,C94BI3C4K,68.9,Policy,Missed policy nuance; add the required verification step.,No,Yes,7
+QOI5RNZXR,RV5J536,C0LZD6IXA,70.7,Policy,Missed policy nuance; add the required verification step.,No,Yes,12
+QQPWHISLY,RILR9IM,C0LBO5ETG,90.7,Policy,Missed policy nuance; add the required verification step.,Yes,No,17
+QH1UW2KI9,ROD2CCE,CDBLF4HK9,84.8,Policy,Missed policy nuance; add the required verification step.,Yes,No,18
+Q8IC3ME8P,RABAG5I,CNAK4MCZH,80.1,Compliance,Avoid free‑form refunds; follow threshold table.,Yes,No,12
+QT4GZ033C,R3CIL6P,CM8LF78LV,91.5,Empathy,Improve tone and acknowledgment before solution.,Yes,No,17
+Q8OXXITC5,RX70EUX,CF9RLODLI,72.6,Empathy,Improve tone and acknowledgment before solution.,No,Yes,14
+QTOM0NONL,RS6K3JJ,CL9IOC2XD,79.1,Compliance,Avoid free‑form refunds; follow threshold table.,Yes,No,7
+Q642HX3X4,R3CIL6P,CVN8DMEM8,82.0,Empathy,Improve tone and acknowledgment before solution.,Yes,No,8
+QJZIVOQM6,R6TL5AY,C8SF1R4M9,64.7,Empathy,Improve tone and acknowledgment before solution.,No,Yes,12
+QSWC16S6I,RE2MZO2,CO7OUWZ5F,88.9,Language,Shorten sentences; check grammar in templates.,No,Yes,23
+QCS7CQXDA,REU373Y,CJIP41K7H,72.0,Policy,Missed policy nuance; add the required verification step.,No,Yes,8
+QDM31W5G0,RV5J536,CNOAVU7SQ,83.9,Language,Shorten sentences; check grammar in templates.,Yes,No,3
+QCQC1XXZ1,RBOEB9D,CAQ3B5YAM,66.2,Compliance,Avoid free‑form refunds; follow threshold table.,No,Yes,12
+QHU6AE6YI,RS6K3JJ,CCT2X5QYP,71.3,Empathy,Improve tone and acknowledgment before solution.,No,Yes,3
+Q9FG0UN0U,RKBQMI1,CEUAURQYS,76.9,Policy,Missed policy nuance; add the required verification step.,Yes,Yes,24
+QKTH7630U,R3U9XBG,CPD26Z552,92.1,Empathy,Improve tone and acknowledgment before solution.,Yes,No,18
+QCAL3A2JD,RT9XGGL,C6J97GFTB,81.5,Compliance,Avoid free‑form refunds; follow threshold table.,Yes,No,7
+Q8HC68HOY,RKBQMI1,CHTBMTJVQ,82.6,Language,Shorten sentences; check grammar in templates.,Yes,No,9
+QFSMCYAA3,R7V5FWU,CBC4C26QL,89.9,Empathy,Improve tone and acknowledgment before solution.,No,Yes,3
+QL6RJIG4L,R7V5FWU,CPNMF4LK8,80.0,Compliance,Avoid free‑form refunds; follow threshold table.,Yes,No,10
+QYHHOYSCU,R6TL5AY,CJQTIJI90,82.7,Policy,Missed policy nuance; add the required verification step.,Yes,No,9
+QCI1XIC8A,RILR9IM,CDSJRBLOP,73.7,Empathy,Improve tone and acknowledgment before solution.,No,Yes,5
+QRX8E0IAN,RS6K3JJ,CT49QCID1,65.1,Empathy,Improve tone and acknowledgment before solution.,No,Yes,8
+Q0NT7B0OT,RILR9IM,CMLTEEZ9J,80.9,Language,Shorten sentences; check grammar in templates.,Yes,No,18
+QZPG9HDNE,RDHQQWC,CWVH2Y1Q6,71.1,Empathy,Improve tone and acknowledgment before solution.,No,Yes,3
+QW0TQT4AD,RE2MZO2,C2I2IOAM8,87.4,Policy,Missed policy nuance; add the required verification step.,Yes,No,17
+QWTUSYXXH,RBOEB9D,CKJO9LHEH,65.0,Empathy,Improve tone and acknowledgment before solution.,No,Yes,13
+Q3MJ5E6RZ,RS6K3JJ,CGULDPXL8,66.9,Empathy,Improve tone and acknowledgment before solution.,No,Yes,12
+Q5RIN71V0,RABAG5I,C8XRJSNWB,91.9,Language,Shorten sentences; check grammar in templates.,No,Yes,11
+QOE58SEW5,RXYNE26,C5EJDZIL4,100.0,Empathy,Improve tone and acknowledgment before solution.,Yes,No,18
+QVJR74XLH,R7V5FWU,CC0WB6A80,86.7,Compliance,Avoid free‑form refunds; follow threshold table.,Yes,No,18
+Q8Y9AKLY4,ROD2CCE,C2G46DQ3R,78.1,Compliance,Avoid free‑form refunds; follow threshold table.,Yes,No,9
+QGDHRW65D,RKBQMI1,CK8W2Q5CE,90.7,Empathy,Improve tone and acknowledgment before solution.,No,Yes,13
+QAGT2S0CK,RJX8UH8,C33P6G7KU,73.8,Empathy,Improve tone and acknowledgment before solution.,No,Yes,13
+QCWCYHECQ,R1VCYW5,C3EPEU7CO,80.8,Empathy,Improve tone and acknowledgment before solution.,Yes,No,8
+QKZ2WJZ9X,R1NKAAB,C8SF1R4M9,77.4,Policy,Missed policy nuance; add the required verification step.,Yes,Yes,17
+QHZC8SRM8,RKBQMI1,C6O8UNAVX,82.5,Empathy,Improve tone and acknowledgment before solution.,Yes,No,7
+QMFICM8I8,RJX8UH8,CDUMUVZTX,90.1,Empathy,Improve tone and acknowledgment before solution.,Yes,No,5
+QAH0JB5SR,RGTYOX0,CK9L324AR,67.0,Compliance,Avoid free‑form refunds; follow threshold table.,No,Yes,16
+QN03T7MRW,RVLO5D3,COO4E4OXU,70.2,Empathy,Improve tone and acknowledgment before solution.,No,Yes,14
+QMRY8T4E6,R3CIL6P,CD09PC5GS,93.8,Policy,Missed policy nuance; add the required verification step.,Yes,No,15
+QRHCBM0UE,RSHG3JO,C3XA2VW5R,91.9,Policy,Missed policy nuance; add the required verification step.,Yes,No,4
+Q77MAPQYF,RYZBJPT,CEUPR3UFN,81.0,Policy,Missed policy nuance; add the required verification step.,No,Yes,15
+Q9HA6XYKM,RBOEB9D,CPBHOCLQ8,83.0,Compliance,Avoid free‑form refunds; follow threshold table.,No,Yes,10
+QUH5KKOMV,R6TL5AY,CGHUOPR05,84.0,Policy,Missed policy nuance; add the required verification step.,Yes,No,12
+Q0YN8J07E,RILR9IM,CN2FPYZPC,84.7,Empathy,Improve tone and acknowledgment before solution.,Yes,No,18
+QEZD26QDH,RO60RRW,CSZVSC65G,68.3,Empathy,Improve tone and acknowledgment before solution.,No,Yes,17
+QJ09U6PYZ,R7V5FWU,CJTUDUFU7,86.3,Empathy,Improve tone and acknowledgment before solution.,Yes,No,23
+QW24XARHA,RILR9IM,C6UZ57Y2Q,91.4,Policy,Missed policy nuance; add the required verification step.,Yes,No,9
+Q4VB0ZWKP,RKBQMI1,CYMQZP3T9,93.4,Compliance,Avoid free‑form refunds; follow threshold table.,Yes,No,15
+QJD4SU8ND,RBOEB9D,CCVGXOPY1,78.8,Language,Shorten sentences; check grammar in templates.,Yes,No,6
+QYAANN267,R2KT8NL,CK9IBU9D4,94.9,Empathy,Improve tone and acknowledgment before solution.,Yes,No,10
+QY73PHENX,RQTPZN2,C80WMAEKB,95.5,Policy,Missed policy nuance; add the required verification step.,Yes,No,16
+QR27QXRW8,RX70EUX,C2BGRGLXF,76.6,Empathy,Improve tone and acknowledgment before solution.,Yes,Yes,10
+QEZ0W4EA4,RVLO5D3,CPD340WOT,86.2,Empathy,Improve tone and acknowledgment before solution.,Yes,No,4
+QXMBS0O4Z,RO60RRW,CG58985QG,79.9,Policy,Missed policy nuance; add the required verification step.,Yes,No,9
+QYEJSNHCA,RVLO5D3,CNSBF1MVU,82.6,Empathy,Improve tone and acknowledgment before solution.,No,Yes,9
+QTH5SBJT3,RABAG5I,C2XA9A9BS,81.3,Policy,Missed policy nuance; add the required verification step.,Yes,No,16
+QVT8N1AP6,R1VCYW5,CT2Q4TJIL,73.9,Compliance,Avoid free‑form refunds; follow threshold table.,No,Yes,9
+QFS1XAAV7,RRP3YAQ,CE50NZABS,82.8,Empathy,Improve tone and acknowledgment before solution.,Yes,No,10
+QASW53COC,R3U9XBG,CEJT55GYD,71.6,Language,Shorten sentences; check grammar in templates.,No,Yes,5
+Q22TLFDRO,R3CIL6P,CS18R594Q,80.7,Policy,Missed policy nuance; add the required verification step.,Yes,No,14
+QY221PUN6,R3CIL6P,CLNCQ6OXG,63.0,Language,Shorten sentences; check grammar in templates.,No,Yes,9
+QNNA2X9KO,RBOEB9D,C5RBS69OF,57.2,Empathy,Improve tone and acknowledgment before solution.,No,Yes,14
+QLRETDJWA,RRP3YAQ,CWYEN2WEB,92.1,Compliance,Avoid free‑form refunds; follow threshold table.,Yes,No,13
+Q2YQ1IONU,R3CIL6P,CD0X0T28U,78.5,Empathy,Improve tone and acknowledgment before solution.,Yes,No,17
+QHPW6DF4L,R3U9XBG,CGW3K0DZV,83.0,Compliance,Avoid free‑form refunds; follow threshold table.,Yes,No,3
+QN476Q1B7,R3CIL6P,CMGUX28CI,80.2,Language,Shorten sentences; check grammar in templates.,No,Yes,17
+QXHBXYE07,RBOEB9D,CB86SN0WZ,77.1,Policy,Missed policy nuance; add the required verification step.,Yes,Yes,6
+QPV8KL28O,RVOJX6Q,CIJEKL1K5,86.2,Empathy,Improve tone and acknowledgment before solution.,Yes,No,9
+QIZPGIY2L,RILR9IM,CL3OLT1J7,100.0,Empathy,Improve tone and acknowledgment before solution.,Yes,No,17
+Q0TREUDLI,RJX8UH8,CSK87RAVT,69.8,Compliance,Avoid free‑form refunds; follow threshold table.,No,Yes,10
+QXIJ4GS23,R3CIL6P,CT49QCID1,75.4,Empathy,Improve tone and acknowledgment before solution.,Yes,Yes,7
+QIIYP79PJ,RX70EUX,C7PJ9DRSR,85.2,Policy,Missed policy nuance; add the required verification step.,Yes,No,18
+QJ18619FH,RKBQMI1,CO9OH5WUP,96.0,Policy,Missed policy nuance; add the required verification step.,Yes,No,5
+QHILWFR78,RX70EUX,CC0AG9P0R,65.3,Policy,Missed policy nuance; add the required verification step.,No,Yes,6
+QI1Z3ZBPO,RGTYOX0,C660H8TTZ,82.2,Empathy,Improve tone and acknowledgment before solution.,Yes,No,4
+Q0JUE7GI7,ROD2CCE,C0QV7S0DH,61.4,Compliance,Avoid free‑form refunds; follow threshold table.,No,Yes,17
+QWAC2GZAJ,RXYNE26,C7SUGI3KV,86.6,Policy,Missed policy nuance; add the required verification step.,Yes,No,15
+Q3N491QPN,RVOJX6Q,C18UV0JLW,80.2,Empathy,Improve tone and acknowledgment before solution.,Yes,No,9
+QOQALN2JX,RGTYOX0,CGSUWOOY0,98.2,Language,Shorten sentences; check grammar in templates.,Yes,No,19
+Q6MLCMHMH,RVLO5D3,CX5W8EMED,85.2,Compliance,Avoid free‑form refunds; follow threshold table.,Yes,No,12
+QO51V4X32,RJX8UH8,CF94IE39G,76.2,Policy,Missed policy nuance; add the required verification step.,Yes,Yes,10
+QXX593E2S,RQTPZN2,CODZEGF59,89.2,Empathy,Improve tone and acknowledgment before solution.,Yes,No,8
+QZ9D9M8BW,RYZBJPT,CO9OH5WUP,69.7,Language,Shorten sentences; check grammar in templates.,No,Yes,8
+QU81X3Q72,RV5J536,CTVH47OD4,91.6,Empathy,Improve tone and acknowledgment before solution.,Yes,No,12
+QZ2FQMO7U,RSHG3JO,CNEO7J6JG,88.2,Policy,Missed policy nuance; add the required verification step.,Yes,No,12
+QGACRZH7F,RBOEB9D,CPNMF4LK8,70.7,Compliance,Avoid free‑form refunds; follow threshold table.,No,Yes,20
+QMOM5S7J1,ROD2CCE,CV7OEI60D,77.4,Policy,Missed policy nuance; add the required verification step.,Yes,Yes,6
+QSLY0FSUJ,RQTPZN2,C6DLFLTKC,84.9,Empathy,Improve tone and acknowledgment before solution.,Yes,No,15
+QYJ3WH95G,RQTPZN2,CPD340WOT,66.9,Compliance,Avoid free‑form refunds; follow threshold table.,No,Yes,11
+QIM5M1D8W,R1NKAAB,C2GQWMAC7,82.0,Language,Shorten sentences; check grammar in templates.,Yes,No,10
+QID41S30G,RKBQMI1,CJ2JZ2Q0J,89.9,Compliance,Avoid free‑form refunds; follow threshold table.,Yes,No,8
+QHKUAZPS0,RQTPZN2,CVWMNYBIV,53.6,Policy,Missed policy nuance; add the required verification step.,No,Yes,14
+QCIK60GZA,RQTPZN2,C0KBM7225,85.0,Empathy,Improve tone and acknowledgment before solution.,Yes,No,15
+Q2T7EZWJO,RKBQMI1,CMKRH9GRS,67.3,Empathy,Improve tone and acknowledgment before solution.,No,Yes,12
+QEP9O3QUB,RBOEB9D,CKI3FB48I,86.3,Policy,Missed policy nuance; add the required verification step.,Yes,No,7
+QQ27A06U8,RBOEB9D,C7MC2XWB1,100.0,Empathy,Improve tone and acknowledgment before solution.,Yes,No,18
+Q703UPK3X,R1NKAAB,C5EJDZIL4,74.5,Empathy,Improve tone and acknowledgment before solution.,No,Yes,7
+Q7B4WCIC7,RJX8UH8,C6BALHRKM,68.3,Empathy,Improve tone and acknowledgment before solution.,No,Yes,19
+Q8DRUE58I,R3CIL6P,CB0NSJNLB,86.0,Empathy,Improve tone and acknowledgment before solution.,Yes,No,18
+Q277WUQXC,RKBQMI1,C6NI7Y1QQ,83.9,Compliance,Avoid free‑form refunds; follow threshold table.,Yes,No,8
+Q5EI1CON7,REU373Y,CNABMQ2E4,77.8,Empathy,Improve tone and acknowledgment before solution.,Yes,Yes,3
+QEG79V36M,R1NKAAB,CB18RTRCW,90.3,Empathy,Improve tone and acknowledgment before solution.,Yes,No,10
+QQDC7VOX0,ROD2CCE,C69IGZKHB,85.4,Empathy,Improve tone and acknowledgment before solution.,Yes,No,21
+QJRUCGCYZ,ROD2CCE,CC0AG9P0R,87.1,Empathy,Improve tone and acknowledgment before solution.,No,Yes,15
+QPM30KXOR,R1NKAAB,CXK0PELT2,87.5,Empathy,Improve tone and acknowledgment before solution.,Yes,No,15
+QIQ7DBKPE,RBOEB9D,C7EV2IJR5,91.5,Policy,Missed policy nuance; add the required verification step.,Yes,No,19
+QGGHDQ1QE,R6TL5AY,C5LT7TY69,89.3,Empathy,Improve tone and acknowledgment before solution.,Yes,No,3
+QIPQHNRZR,ROD2CCE,C90HVWXAK,94.7,Language,Shorten sentences; check grammar in templates.,Yes,No,20
+Q3UW5EI81,RRP3YAQ,CMXZ4O7LH,80.8,Empathy,Improve tone and acknowledgment before solution.,Yes,No,16
+QZ7TDCHSH,RGTYOX0,CD8IXYR5D,84.0,Empathy,Improve tone and acknowledgment before solution.,Yes,No,9
+QKU5G63JY,R2KT8NL,CPBY1KMIO,72.2,Compliance,Avoid free‑form refunds; follow threshold table.,No,Yes,10
+QD3CNU71G,RKBQMI1,CMADD10ZQ,64.2,Policy,Missed policy nuance; add the required verification step.,No,Yes,10
+QYOVZVA6J,RJX8UH8,CY7P30UGU,74.6,Policy,Missed policy nuance; add the required verification step.,No,Yes,18
+Q62715EPR,RILR9IM,CPUBEZ1BS,81.8,Policy,Missed policy nuance; add the required verification step.,Yes,No,10
+QBTB2EU2W,RRP3YAQ,CF3U7PHV7,84.9,Compliance,Avoid free‑form refunds; follow threshold table.,Yes,No,8
+QGLKR5567,R3U9XBG,CSVIQYPNC,64.7,Compliance,Avoid free‑form refunds; follow threshold table.,No,Yes,11
+QGMV5KA47,RABAG5I,CC9Q959TP,99.4,Empathy,Improve tone and acknowledgment before solution.,Yes,No,12
+QBZ0TWCJ5,R3U9XBG,CW1S3HZBD,82.3,Compliance,Avoid free‑form refunds; follow threshold table.,Yes,No,9
+QK8LC9DRG,R1VCYW5,CISZBVRCJ,79.0,Compliance,Avoid free‑form refunds; follow threshold table.,No,Yes,13
+Q9QTE51ET,RVLO5D3,CR1QZTK5Z,86.7,Policy,Missed policy nuance; add the required verification step.,Yes,No,12
+QKPD01JXI,RS6K3JJ,CZK1J5NBF,80.2,Empathy,Improve tone and acknowledgment before solution.,Yes,No,6
+QDLSP2UUN,RABAG5I,CHG9D25BV,67.4,Empathy,Improve tone and acknowledgment before solution.,No,Yes,16
+QKHTPQ5NE,RQTPZN2,CVEJIXLU0,78.9,Policy,Missed policy nuance; add the required verification step.,Yes,No,4
+QC5X0Z1SN,R1VCYW5,CD0X0T28U,89.5,Language,Shorten sentences; check grammar in templates.,Yes,No,11
+QEJ35KK3P,R3CIL6P,C47RCMHRV,84.2,Empathy,Improve tone and acknowledgment before solution.,Yes,No,21
+QGF7JWO1N,RXYNE26,C7FHVV273,78.6,Policy,Missed policy nuance; add the required verification step.,Yes,No,11
+QJ4BMAOV8,RABAG5I,CF9KRAEHB,75.8,Empathy,Improve tone and acknowledgment before solution.,Yes,Yes,19
+Q5Y9JW3CU,RXYNE26,CXHQGA42S,84.1,Language,Shorten sentences; check grammar in templates.,No,Yes,12
+QOXX83UGL,RGTYOX0,CGSUWOOY0,100.0,Policy,Missed policy nuance; add the required verification step.,Yes,No,9
+QSMZGXR2B,RVLO5D3,CGRH6JFU5,84.3,Policy,Missed policy nuance; add the required verification step.,Yes,No,10
+QH4X5Y5BI,RO60RRW,C4WJ1C36Z,84.5,Policy,Missed policy nuance; add the required verification step.,Yes,No,12
+Q3EJG2WYW,RO60RRW,CMUFN1JES,94.7,Policy,Missed policy nuance; add the required verification step.,Yes,No,17
+Q9NP12YB5,R1VCYW5,CM8LF78LV,78.4,Empathy,Improve tone and acknowledgment before solution.,Yes,No,11
+QNRNO8B9Z,RILR9IM,CJKPBYWLN,80.7,Empathy,Improve tone and acknowledgment before solution.,Yes,No,13
+QDWRRY0XN,RXYNE26,CJZ247EE7,90.8,Empathy,Improve tone and acknowledgment before solution.,Yes,No,12
+QDHJQOVN2,RS6K3JJ,CQFM8JGYH,75.4,Empathy,Improve tone and acknowledgment before solution.,Yes,Yes,17
+QW1X381L6,RX70EUX,CTSTBRKWI,87.5,Policy,Missed policy nuance; add the required verification step.,Yes,No,7
+QJUXAUF8N,RE2MZO2,CT49QCID1,91.3,Empathy,Improve tone and acknowledgment before solution.,Yes,No,14
+QOX6J29M5,R3U9XBG,C9TXH03YR,86.9,Compliance,Avoid free‑form refunds; follow threshold table.,Yes,No,11
+QW6A8AZ1F,RRP3YAQ,CZX026PQW,80.4,Language,Shorten sentences; check grammar in templates.,Yes,No,14
+QT2HAH2V7,RABAG5I,CTR3J8LTS,77.6,Empathy,Improve tone and acknowledgment before solution.,Yes,Yes,3
+Q5BPY93HJ,RQTPZN2,CK8W2Q5CE,79.3,Language,Shorten sentences; check grammar in templates.,Yes,No,24
+QK4KZRHNZ,RX70EUX,CTRL1DJER,100.0,Language,Shorten sentences; check grammar in templates.,Yes,No,4
+QZ6AJBRQ9,R3CIL6P,CJ2JZ2Q0J,63.5,Empathy,Improve tone and acknowledgment before solution.,No,Yes,10
+QJLHSO0MY,RO60RRW,CL4YO6OUI,73.4,Policy,Missed policy nuance; add the required verification step.,No,Yes,10
+QIOUO3MTZ,RS6K3JJ,C2GSKH8HD,97.0,Compliance,Avoid free‑form refunds; follow threshold table.,Yes,No,6
+QT1Q4S0HG,RYZBJPT,CVBEXDMVX,83.7,Compliance,Avoid free‑form refunds; follow threshold table.,Yes,No,10
+Q2KCJGGS9,RJX8UH8,CSHUY8T78,68.9,Compliance,Avoid free‑form refunds; follow threshold table.,No,Yes,3
+QH3GDH78X,RQTPZN2,CXRC9HDVO,77.7,Empathy,Improve tone and acknowledgment before solution.,No,Yes,13
+Q8VODU9AA,RGQO9D4,CU3CHJ2ST,84.6,Empathy,Improve tone and acknowledgment before solution.,Yes,No,16
+QAG0ULENC,RYZBJPT,CTATOZ58V,95.5,Empathy,Improve tone and acknowledgment before solution.,Yes,No,18
+Q776H2U9A,RS6K3JJ,CTAK7S8SA,92.2,Empathy,Improve tone and acknowledgment before solution.,Yes,No,10
+QP2HE0PEP,RKBQMI1,CPEJ45WEE,87.8,Policy,Missed policy nuance; add the required verification step.,Yes,No,14
+Q2O9BLOCP,RSHG3JO,CPD340WOT,70.9,Empathy,Improve tone and acknowledgment before solution.,No,Yes,13
+QXBMB53QJ,R6TL5AY,CCGP22JPF,86.1,Policy,Missed policy nuance; add the required verification step.,Yes,No,7
+QQJ619NUU,R3CIL6P,C4EWN1C6Z,93.7,Empathy,Improve tone and acknowledgment before solution.,Yes,No,11
+Q0247N0KY,RRP3YAQ,C032248VI,100.0,Policy,Missed policy nuance; add the required verification step.,Yes,No,7
+Q0O9R685L,RS6K3JJ,C3EPEU7CO,75.4,Compliance,Avoid free‑form refunds; follow threshold table.,Yes,Yes,19
+QWT424EI6,ROD2CCE,CU4UCC1BN,72.9,Policy,Missed policy nuance; add the required verification step.,No,Yes,10
+Q0FODWDW8,R1NKAAB,CJDLOWJFG,68.0,Empathy,Improve tone and acknowledgment before solution.,No,Yes,17
+QD55J1Z46,R1NKAAB,C35TWZSGP,67.4,Policy,Missed policy nuance; add the required verification step.,No,Yes,5
+QYJSQWJRB,RO60RRW,CADEZHJ45,97.6,Policy,Missed policy nuance; add the required verification step.,Yes,No,13
+QSTO7ZR2Q,RGQO9D4,CKX6BAAFB,67.4,Language,Shorten sentences; check grammar in templates.,No,Yes,6
+QHG3C1MZH,R6TL5AY,CJX6JYCAB,82.6,Policy,Missed policy nuance; add the required verification step.,Yes,No,21
+QAQSHQOTK,RGQO9D4,C7MMDPRXF,69.9,Policy,Missed policy nuance; add the required verification step.,No,Yes,13
+Q7NLRRMMN,RE2MZO2,CWL7KTTIR,88.9,Policy,Missed policy nuance; add the required verification step.,Yes,No,6
+Q5OS8LHMQ,RSHG3JO,C1I24YL8Y,71.6,Policy,Missed policy nuance; add the required verification step.,No,Yes,11
+Q9VYVM2M2,RV5J536,CO3HISU0K,87.4,Empathy,Improve tone and acknowledgment before solution.,Yes,No,12
+Q46H0YJ3K,R1VCYW5,C7PF3WZDL,80.3,Policy,Missed policy nuance; add the required verification step.,Yes,No,10
+Q0OSYTBBF,RT9XGGL,CG2NPTP1I,87.3,Language,Shorten sentences; check grammar in templates.,Yes,No,11
+QDJGMF72X,RDHQQWC,CSTFYEQLF,94.0,Empathy,Improve tone and acknowledgment before solution.,Yes,No,3
+QD3ZMMU1S,RABAG5I,CH5FBH1VM,83.4,Language,Shorten sentences; check grammar in templates.,Yes,No,12
+QGWI22ON9,R3U9XBG,CZBQVEKMX,87.9,Policy,Missed policy nuance; add the required verification step.,Yes,No,11
+Q0O83E4NV,RKBQMI1,C00OO6UFZ,100.0,Language,Shorten sentences; check grammar in templates.,Yes,No,13
+QKY1XPU2M,RKBQMI1,C2G6FABH5,76.7,Empathy,Improve tone and acknowledgment before solution.,Yes,Yes,15
+Q168DS3IV,RT9XGGL,CNT8HFJ5B,90.0,Policy,Missed policy nuance; add the required verification step.,Yes,No,12
+QPWJJYHFF,RGTYOX0,CQATB7VNR,71.4,Language,Shorten sentences; check grammar in templates.,No,Yes,11
+QH4PKUEQP,RDHQQWC,CYDGV2GK7,93.7,Compliance,Avoid free‑form refunds; follow threshold table.,Yes,No,5
+QSH9IX5X8,RVLO5D3,C0DKBBIUC,73.1,Policy,Missed policy nuance; add the required verification step.,No,Yes,11
+QGHBY6HQZ,RSHG3JO,CQXC9NAXU,76.7,Empathy,Improve tone and acknowledgment before solution.,Yes,Yes,9
+QBZVRKSWY,RILR9IM,CR1QZTK5Z,100.0,Policy,Missed policy nuance; add the required verification step.,Yes,No,6
+QD41DJQQG,RSHG3JO,CCCMHTAKQ,86.2,Compliance,Avoid free‑form refunds; follow threshold table.,Yes,No,13
+QEK1VAGQM,RV5J536,C2TQONTYP,82.0,Empathy,Improve tone and acknowledgment before solution.,Yes,No,16
+QOO9WTK7J,RS6K3JJ,CQZOGND1G,74.9,Empathy,Improve tone and acknowledgment before solution.,No,Yes,16
+QD7DQ9540,RE2MZO2,CSHUY8T78,83.1,Compliance,Avoid free‑form refunds; follow threshold table.,Yes,No,7
+QWWWMJL80,RS6K3JJ,C1ML2Y363,90.6,Empathy,Improve tone and acknowledgment before solution.,Yes,No,9
+QZDQPNWTH,RX70EUX,COIJPMHME,87.4,Empathy,Improve tone and acknowledgment before solution.,Yes,No,15
+QN9SZL678,RS6K3JJ,C1HQYX6EK,78.9,Policy,Missed policy nuance; add the required verification step.,Yes,No,6
+QNUHHWU33,R3U9XBG,C9LPLPAVV,94.4,Policy,Missed policy nuance; add the required verification step.,Yes,No,3
+QQEH71B84,RYZBJPT,C1TX49DZI,72.0,Compliance,Avoid free‑form refunds; follow threshold table.,No,Yes,8
+QYX102KY9,R1NKAAB,CA1RZXPLW,85.3,Compliance,Avoid free‑form refunds; follow threshold table.,Yes,No,11
+QNYR7YY84,R3U9XBG,CGHUOPR05,89.5,Policy,Missed policy nuance; add the required verification step.,Yes,No,21
+QUH62CJ5Z,RKBQMI1,CH8TLKUAJ,71.6,Policy,Missed policy nuance; add the required verification step.,No,Yes,18
+QR3BO3UA4,RRP3YAQ,CCUJHB6PM,91.5,Policy,Missed policy nuance; add the required verification step.,Yes,No,10
+QRM3IYQJQ,ROD2CCE,C3XF0HV88,78.9,Policy,Missed policy nuance; add the required verification step.,Yes,No,13
+QW69SH3MU,RVLO5D3,CY0MEK367,71.8,Policy,Missed policy nuance; add the required verification step.,No,Yes,6
+QAU1DYPVZ,REU373Y,C7P9C0VII,73.1,Empathy,Improve tone and acknowledgment before solution.,No,Yes,21
+QGDPWSUFX,RYZBJPT,C3BPVSY2O,79.5,Policy,Missed policy nuance; add the required verification step.,Yes,No,13
+Q5E7OT3RF,R1VCYW5,C2OUQKKCP,90.0,Empathy,Improve tone and acknowledgment before solution.,Yes,No,14
+QHMCUFELR,RXYNE26,COIJPMHME,77.2,Language,Shorten sentences; check grammar in templates.,Yes,Yes,18
+QZ9NCTLCF,RYZBJPT,CG05DDD2L,62.0,Policy,Missed policy nuance; add the required verification step.,No,Yes,10
+QUCK5NZVA,RXYNE26,CT0NTKJEL,75.7,Policy,Missed policy nuance; add the required verification step.,Yes,Yes,11
+Q5UJLYGK9,RGQO9D4,CZY9B12PK,90.5,Policy,Missed policy nuance; add the required verification step.,No,Yes,11
+QWE85OGF4,RSHG3JO,CCJYFP1FR,84.7,Compliance,Avoid free‑form refunds; follow threshold table.,Yes,No,3
+QCKAC31LG,R1VCYW5,CONAG1MFK,66.0,Empathy,Improve tone and acknowledgment before solution.,No,Yes,19
+QHR5PLUC0,RRP3YAQ,C2GSKH8HD,64.3,Empathy,Improve tone and acknowledgment before solution.,No,Yes,17
+QLUCGMZVB,RRP3YAQ,CY5EZT3E9,83.5,Empathy,Improve tone and acknowledgment before solution.,Yes,No,15
+Q994MBC55,RGTYOX0,CPQW24AXD,77.0,Compliance,Avoid free‑form refunds; follow threshold table.,Yes,Yes,17
+Q1VBH987S,RKBQMI1,C29TA5FEY,95.4,Policy,Missed policy nuance; add the required verification step.,No,Yes,18
+QNTPIXRE3,RGTYOX0,CW3XVQIK0,82.2,Language,Shorten sentences; check grammar in templates.,Yes,No,13

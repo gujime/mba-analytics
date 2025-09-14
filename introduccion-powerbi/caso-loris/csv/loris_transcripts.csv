@@ -1,0 +1,321 @@
+Transcript_ID,Candidate_ID,Transcript,Sentiment_Score,Keywords,Outcome
+TSMEN6OAM,CFOM0FNIG,I document cases thoroughly and follow policy.,0.52,refunds,Hired
+TMX1JSSSO,CQX8PH0AQ,I document cases thoroughly and follow policy.,1.09,"QA,empathy",Hired
+T6IPMOMMY,CCQGI5ZE4,I struggle with multitasking in high volume periods.,0.01,delivery,Hired
+TCHL7JLJO,C0IHDR1V5,I enjoy helping customers resolve issues quickly and clearly.,0.13,"cancellation,QA",Not Hired
+TFATQJ7KA,CXABBF9W2,I document cases thoroughly and follow policy.,-0.12,"cancellation,empathy,refunds",Not Hired
+TZW0BU1HU,C438D5CRV,I find it hard to write empathetic responses.,-0.14,SLA,Not Hired
+T8H314CQX,CVJL1HST1,I document cases thoroughly and follow policy.,0.82,QA,Not Hired
+TV56VTBC0,CP8D9FK30,I find it hard to write empathetic responses.,-1.53,"delivery,QA",Not Hired
+TVF2IJ50Y,C660H8TTZ,I enjoy helping customers resolve issues quickly and clearly.,0.69,"QA,refunds",Not Hired
+TOZ1E6RLR,C7SUGI3KV,I find it hard to write empathetic responses.,-0.71,"coaching,delivery",Not Hired
+TKTJHJM8Y,CF9RLODLI,I coach peers and share best practices.,0.69,SLA,Not Hired
+TC42YD8Y3,CM0DC4VM1,I struggle with multitasking in high volume periods.,-0.53,"billing,refunds,coaching",Not Hired
+T87G3BKXH,CQVFW7ELY,I enjoy helping customers resolve issues quickly and clearly.,1.2,"QA,policy",Not Hired
+T52AJ5TBI,CIHIEIXK2,I struggle with multitasking in high volume periods.,-0.02,delivery,Not Hired
+T91U9Y3OI,CBET30UD1,I enjoy helping customers resolve issues quickly and clearly.,0.33,"empathy,billing,refunds",Not Hired
+TIHXOMEBZ,CUX955WMP,I stayed calm with an upset client and de-escalated the situation.,0.41,"QA,refunds",Hired
+T6VI25JDK,CEE9E8KDK,I document cases thoroughly and follow policy.,0.62,"escalation,refunds,billing",Not Hired
+T0QH6TQOH,COO4E4OXU,I struggle with multitasking in high volume periods.,-0.58,"coaching,policy,delivery",Not Hired
+T8GEXM9OX,CD7TP0NE0,I stayed calm with an upset client and de-escalated the situation.,0.48,"escalation,empathy",Not Hired
+TDA8UX578,CF74E2EZD,I coach peers and share best practices.,0.69,"escalation,billing,coaching",Not Hired
+TG6QOXYR5,CXK20MI0Y,I enjoy helping customers resolve issues quickly and clearly.,0.05,refunds,Hired
+T7HU1RCCS,CGZSWZ92W,I prefer phone over chat and may type slowly.,-0.48,SLA,Hired
+TSH1ISUK5,C4E9XGQ7O,I document cases thoroughly and follow policy.,0.74,SLA,Not Hired
+TU4A8WTBZ,C3HNSX759,I sometimes miss policy details under pressure.,-0.73,"coaching,escalation,empathy",Hired
+TYP5D8ZPA,CY64R1LQT,I coach peers and share best practices.,0.35,"empathy,QA,coaching",Not Hired
+TMLP0VE7H,CQIOPW84N,I stayed calm with an upset client and de-escalated the situation.,0.44,coaching,Not Hired
+TZQHWHTX3,CTPA70S98,I find it hard to write empathetic responses.,0.04,"refunds,coaching,delivery",Not Hired
+TPJTVTULG,CTW4MTY11,I find it hard to write empathetic responses.,-0.12,"cancellation,SLA,coaching",Hired
+TPQR91NOO,C23TB7O75,I prefer phone over chat and may type slowly.,0.37,"empathy,delivery,escalation",Not Hired
+TFVPGSSZ3,CPI8JM8UJ,I document cases thoroughly and follow policy.,-0.04,"empathy,delivery,coaching",Not Hired
+TR2KGEHPO,CVZS47E8W,I coach peers and share best practices.,1.18,"escalation,refunds,billing",Not Hired
+TTSDRH6L9,CR6GPE1Z3,I stayed calm with an upset client and de-escalated the situation.,0.72,"policy,refunds",Not Hired
+TE0IYECZM,C4THVFAWS,I enjoy helping customers resolve issues quickly and clearly.,0.94,"escalation,QA",Not Hired
+T6D6OUY07,C9OYSHLSD,I struggle with multitasking in high volume periods.,-0.23,"refunds,escalation",Not Hired
+TWC8ZFJMJ,CF3U7PHV7,I document cases thoroughly and follow policy.,0.38,"SLA,escalation,cancellation",Not Hired
+TZ1FC4SQP,CBOPD9ILP,I document cases thoroughly and follow policy.,0.4,"escalation,delivery",Hired
+TVXM2CEWU,CX0ZCZ0G4,I sometimes miss policy details under pressure.,-0.29,"SLA,delivery",Hired
+T90FXPMW0,COMZOQPJE,I coach peers and share best practices.,1.04,"empathy,billing,QA",Not Hired
+T2UL9DFN8,CTRL1DJER,I prefer phone over chat and may type slowly.,-0.23,"SLA,empathy,refunds",Not Hired
+T2JAQQ5E6,CSU4O3286,I document cases thoroughly and follow policy.,-0.73,"QA,billing,policy",Hired
+TADMIINVE,CE662MCZP,I stayed calm with an upset client and de-escalated the situation.,0.66,cancellation,Not Hired
+TO0SVC9UY,CZJ4BV7X7,I prefer phone over chat and may type slowly.,-0.42,"coaching,billing,empathy",Not Hired
+TNBMEHKXD,CUR4TSDAO,I stayed calm with an upset client and de-escalated the situation.,0.05,"policy,delivery",Not Hired
+TTTJXAX1B,CS74PDAIC,I enjoy helping customers resolve issues quickly and clearly.,1.42,escalation,Not Hired
+THCNKKDK4,CFTTNL3Q3,I coach peers and share best practices.,0.46,"billing,empathy,QA",Not Hired
+T1SWX2VSC,CA8FVG702,I coach peers and share best practices.,0.64,cancellation,Not Hired
+TCORZKK6X,CC7NRWXA5,I struggle with multitasking in high volume periods.,-0.72,"SLA,delivery,billing",Not Hired
+TR8FYOYE0,CAAPI7E5H,I enjoy helping customers resolve issues quickly and clearly.,0.32,"refunds,delivery",Not Hired
+TEZJCPO8I,CLNIMYT91,I document cases thoroughly and follow policy.,0.14,SLA,Not Hired
+TRI387730,CCNMSJQPL,I enjoy helping customers resolve issues quickly and clearly.,0.09,delivery,Not Hired
+TA4D33XV3,CCQ8OTTXG,I enjoy helping customers resolve issues quickly and clearly.,0.49,"coaching,delivery,policy",Not Hired
+TDGT3B26C,CT1L7370X,I document cases thoroughly and follow policy.,0.25,"SLA,cancellation,policy",Hired
+TTURXJTWU,CIRHQQAU2,I enjoy helping customers resolve issues quickly and clearly.,1.16,"cancellation,policy",Not Hired
+TJALDMBLZ,CLJ1GBB5N,I document cases thoroughly and follow policy.,0.94,"cancellation,SLA,delivery",Hired
+TQQ3NMYA0,CK7H6BAC2,I document cases thoroughly and follow policy.,1.07,"coaching,billing,delivery",Not Hired
+TIJY8SU3C,CLGJAV7YQ,I struggle with multitasking in high volume periods.,-0.46,billing,Hired
+TEROZMZS5,C2SE9JA7A,I document cases thoroughly and follow policy.,0.47,"policy,SLA,billing",Not Hired
+T9HXI1P4F,CC045VW7W,I coach peers and share best practices.,0.17,QA,Not Hired
+TP1URRJ0S,C3XEH491D,I struggle with multitasking in high volume periods.,-0.25,delivery,Hired
+TOKR67KW8,C4MUALVH9,I stayed calm with an upset client and de-escalated the situation.,1.08,empathy,Not Hired
+TE04JBREP,CCDO1XVTD,I enjoy helping customers resolve issues quickly and clearly.,0.13,SLA,Hired
+TKO1V6UBZ,CCKZK05CA,I stayed calm with an upset client and de-escalated the situation.,0.81,"policy,coaching",Not Hired
+T53CEWDJ9,CWJKPJ1D3,I coach peers and share best practices.,-0.71,policy,Hired
+TXWB4VZXM,CI9Q976U2,I stayed calm with an upset client and de-escalated the situation.,0.11,"QA,escalation,delivery",Not Hired
+TY8MQ8ISD,C0M0631WJ,I document cases thoroughly and follow policy.,0.65,coaching,Not Hired
+T2YXUESZR,C7MMDPRXF,I sometimes miss policy details under pressure.,-0.77,policy,Not Hired
+TTLGRLCTU,CPBHOCLQ8,I stayed calm with an upset client and de-escalated the situation.,0.42,"empathy,billing,coaching",Not Hired
+T08RIOAL5,CS03PXT8X,I coach peers and share best practices.,0.19,"billing,coaching",Not Hired
+TUJT27JXP,CSS73JMYO,I stayed calm with an upset client and de-escalated the situation.,1.11,SLA,Not Hired
+TK99TRQV6,CR8XBHZTK,I struggle with multitasking in high volume periods.,-0.45,"escalation,empathy",Not Hired
+TCIYV3DFE,C5COQ2EPF,I find it hard to write empathetic responses.,-0.56,"QA,escalation",Not Hired
+TZ64US346,C8NDU5M4V,I document cases thoroughly and follow policy.,0.07,"empathy,QA",Not Hired
+TRM0LN5PJ,C1WCKG0BH,I struggle with multitasking in high volume periods.,0.01,"escalation,QA",Not Hired
+TTE909H2N,CSTFYEQLF,I find it hard to write empathetic responses.,0.25,"delivery,policy,QA",Not Hired
+TH5Q2JL9H,CL4YO6OUI,I document cases thoroughly and follow policy.,0.67,delivery,Not Hired
+T0XB6OKQO,CNPG744LL,I stayed calm with an upset client and de-escalated the situation.,1.07,"empathy,QA",Not Hired
+TZ84J0FSC,C2XO3TPQI,I prefer phone over chat and may type slowly.,-1.05,"coaching,billing",Not Hired
+TVK2YP70F,C2I2IOAM8,I find it hard to write empathetic responses.,-0.91,refunds,Not Hired
+TVZI06I7D,C6LTH1L5C,I enjoy helping customers resolve issues quickly and clearly.,0.89,"coaching,delivery",Not Hired
+T86BC0PJO,C0LZD6IXA,I enjoy helping customers resolve issues quickly and clearly.,0.68,"cancellation,billing",Not Hired
+T1JPQ9SID,CJZ247EE7,I struggle with multitasking in high volume periods.,-0.29,"cancellation,billing",Not Hired
+TYHV13QR5,CXK0PELT2,I coach peers and share best practices.,0.82,"delivery,QA",Not Hired
+TARON7I3G,CKXMRGPIE,I find it hard to write empathetic responses.,-0.2,"policy,coaching",Hired
+T38D7UVLM,C79A091I1,I coach peers and share best practices.,0.59,"delivery,escalation",Hired
+T5TTDW3HT,CB5GJ467P,I document cases thoroughly and follow policy.,0.54,"billing,empathy",Not Hired
+TVZS9BFI2,C0LBO5ETG,I enjoy helping customers resolve issues quickly and clearly.,0.4,billing,Not Hired
+TVDR5GH8K,CLGI67BWI,I stayed calm with an upset client and de-escalated the situation.,0.99,billing,Not Hired
+T44MRFFNI,CP3JIMMGG,I find it hard to write empathetic responses.,0.12,"delivery,empathy",Not Hired
+T5BK39FMG,C7SSQPYUF,I document cases thoroughly and follow policy.,-0.01,"delivery,policy,empathy",Hired
+TV6IXR2MP,CEJFOLTTA,I coach peers and share best practices.,0.48,escalation,Not Hired
+TH1S252P9,C91L8RSPF,I enjoy helping customers resolve issues quickly and clearly.,0.79,"empathy,escalation",Not Hired
+TVEH7D0KL,C16D9W9M8,I coach peers and share best practices.,0.62,"refunds,escalation",Not Hired
+TBVHH3JKE,CDF2XP2FH,I coach peers and share best practices.,0.58,"escalation,billing",Not Hired
+TARRQNLM7,C8LH8WKWS,I prefer phone over chat and may type slowly.,-0.77,"SLA,refunds,empathy",Not Hired
+TPPPGDJNF,CDNSYD3Q5,I document cases thoroughly and follow policy.,0.62,"refunds,escalation,policy",Not Hired
+T3GHLDMY0,CEPEE52H4,I prefer phone over chat and may type slowly.,-0.48,cancellation,Not Hired
+T5RYJGTSU,CDUMUVZTX,I coach peers and share best practices.,-0.1,QA,Not Hired
+TGG4XR7DW,CA1MXON5D,I coach peers and share best practices.,0.25,"empathy,policy,QA",Not Hired
+TGV4ITXWJ,C18IDULPI,I coach peers and share best practices.,1.7,"escalation,billing",Hired
+TX3LAFUI3,CEAJHCLSG,I coach peers and share best practices.,0.58,refunds,Not Hired
+TSQL9060D,CSO1YT01U,I sometimes miss policy details under pressure.,-0.83,coaching,Not Hired
+TNE881L3K,CWP2VOW8O,I stayed calm with an upset client and de-escalated the situation.,1.21,QA,Not Hired
+TNGA0FYC6,CFF1Y3J9J,I sometimes miss policy details under pressure.,-0.17,"coaching,QA,refunds",Not Hired
+T0SKLC2CU,CW81OC4AY,I stayed calm with an upset client and de-escalated the situation.,0.78,"SLA,billing,delivery",Not Hired
+TTB5TNNNP,CJRYRP7FU,I prefer phone over chat and may type slowly.,-0.56,"cancellation,coaching,QA",Not Hired
+TX2DSMADG,C2G46DQ3R,I find it hard to write empathetic responses.,-0.77,cancellation,Hired
+TC5O1GARU,CVCGVJYOV,I prefer phone over chat and may type slowly.,-0.8,QA,Not Hired
+TQNAX4W7W,CRMSFES3T,I struggle with multitasking in high volume periods.,-1.38,empathy,Not Hired
+TU3FS1JJA,CIJEKL1K5,I coach peers and share best practices.,-0.47,"cancellation,billing",Hired
+TQP70DJJV,CYMQZP3T9,I sometimes miss policy details under pressure.,-0.9,billing,Hired
+TKM7W4A2G,C84DIPFUA,I document cases thoroughly and follow policy.,0.74,"delivery,cancellation,coaching",Not Hired
+T02BN6L3T,CD5OTFWGJ,I stayed calm with an upset client and de-escalated the situation.,0.51,"coaching,billing",Not Hired
+T8N2O36QV,C0T27O5G6,I enjoy helping customers resolve issues quickly and clearly.,0.49,escalation,Hired
+TWSS29AS2,CZF6S7FRZ,I enjoy helping customers resolve issues quickly and clearly.,0.26,"refunds,delivery,escalation",Not Hired
+TN09O5AYF,CHYPBPBRU,I stayed calm with an upset client and de-escalated the situation.,0.87,"policy,billing",Not Hired
+T8S9O3LPM,C33P6G7KU,I enjoy helping customers resolve issues quickly and clearly.,0.25,"escalation,billing,policy",Not Hired
+TRWKHKFO5,C0UTRIRA8,I coach peers and share best practices.,0.15,"policy,empathy",Not Hired
+THC2Z7VRY,CAV1DDJ4S,I struggle with multitasking in high volume periods.,-0.4,"policy,coaching,refunds",Hired
+T6KGFV39B,C5H2U11TJ,I prefer phone over chat and may type slowly.,-0.75,"QA,delivery,SLA",Not Hired
+TY5RX4PH3,CZBHU9FD7,I document cases thoroughly and follow policy.,1.03,QA,Not Hired
+TKNRE79ZD,C3EPEU7CO,I find it hard to write empathetic responses.,-0.5,refunds,Hired
+T83STAHA3,CELYLVYLX,I stayed calm with an upset client and de-escalated the situation.,0.5,"escalation,coaching",Not Hired
+TC9XBHG50,CNEF7AL6V,I sometimes miss policy details under pressure.,-0.2,"coaching,policy,QA",Hired
+TGOJWLOEU,C5UHCZPLO,I document cases thoroughly and follow policy.,0.85,"coaching,cancellation",Hired
+TM5PSYL3A,CFFQSYO6R,I prefer phone over chat and may type slowly.,-1.05,"coaching,QA",Hired
+TFU82HOJ2,CGT2CC4CW,I document cases thoroughly and follow policy.,0.8,"billing,QA",Not Hired
+TR10WHP3L,CWYQKS8VZ,I find it hard to write empathetic responses.,-0.67,"escalation,billing",Not Hired
+THMMRZQ4R,C81ST9KM6,I coach peers and share best practices.,1.27,"empathy,policy",Not Hired
+TZYFI6K5M,CT2EVKHSO,I coach peers and share best practices.,0.74,"escalation,delivery,cancellation",Not Hired
+T556U3WEA,CTSV54DVN,I find it hard to write empathetic responses.,-0.87,"policy,delivery,coaching",Hired
+T5IJ78LSU,CVWMNYBIV,I document cases thoroughly and follow policy.,1.31,QA,Not Hired
+T243WOMNV,C7FHVV273,I coach peers and share best practices.,0.65,"QA,billing",Not Hired
+TF84K7JPE,CDX18LKTY,I stayed calm with an upset client and de-escalated the situation.,0.52,"refunds,SLA,escalation",Hired
+TI0CIBX3T,C1M4P0DD2,I sometimes miss policy details under pressure.,-0.55,"cancellation,policy",Not Hired
+T11AW6MTJ,CSV1ORVKC,I stayed calm with an upset client and de-escalated the situation.,0.05,"empathy,delivery,coaching",Not Hired
+TV1SVA1LN,CV9R52KI1,I enjoy helping customers resolve issues quickly and clearly.,1.33,"delivery,refunds,billing",Not Hired
+T54Q3HG6X,C8SF1R4M9,I stayed calm with an upset client and de-escalated the situation.,0.9,"delivery,refunds",Hired
+T3J36TTMY,CJL73BY3U,I prefer phone over chat and may type slowly.,-0.37,"empathy,cancellation,escalation",Not Hired
+TUWD0YFWN,C41BPRQ7F,I find it hard to write empathetic responses.,-0.15,"policy,SLA,delivery",Not Hired
+T9JO4L3EE,CNOAVU7SQ,I coach peers and share best practices.,0.5,"policy,empathy",Not Hired
+TBFFT7PWK,CMGUX28CI,I enjoy helping customers resolve issues quickly and clearly.,0.14,coaching,Hired
+TMWZY5XAN,C2Y78ZNVP,I enjoy helping customers resolve issues quickly and clearly.,1.17,coaching,Not Hired
+TX0ID8U08,CQ9KG8FAP,I document cases thoroughly and follow policy.,0.09,"SLA,refunds,empathy",Not Hired
+TMAF83X2X,CIZ01MOO4,I coach peers and share best practices.,0.89,delivery,Not Hired
+TXPILCFSB,CUZD1T7H6,I find it hard to write empathetic responses.,-1.03,"billing,coaching,escalation",Hired
+TECXE7RO5,C03PK8QLP,I enjoy helping customers resolve issues quickly and clearly.,0.9,"empathy,policy",Not Hired
+TZKA2RO7F,CLIKFB7C5,I document cases thoroughly and follow policy.,-0.38,"QA,coaching,delivery",Hired
+T7M0DSK7P,CNVZ5BHKL,I document cases thoroughly and follow policy.,0.12,coaching,Not Hired
+TBYC3BAS2,CRNMZSVUH,I struggle with multitasking in high volume periods.,0.31,SLA,Not Hired
+TS3FGBHE3,CGENCC9DC,I document cases thoroughly and follow policy.,0.84,"coaching,QA,billing",Not Hired
+TCEV132UZ,CIQMOZI61,I stayed calm with an upset client and de-escalated the situation.,0.19,"delivery,QA",Not Hired
+TXFL5AGW2,CSDAHP0QA,I document cases thoroughly and follow policy.,0.06,SLA,Hired
+T32X61YMC,C9PCKFY24,I prefer phone over chat and may type slowly.,-0.27,"escalation,policy",Not Hired
+TZP6QSC8L,CFE3EU9XO,I coach peers and share best practices.,0.39,"QA,cancellation,empathy",Not Hired
+TW6LMG2YI,C8W5MQP58,I coach peers and share best practices.,1.17,"coaching,delivery",Not Hired
+T85R03VH3,C7Y1ZX1A5,I struggle with multitasking in high volume periods.,-0.82,"empathy,coaching,policy",Hired
+T092LER4W,CGJRSF8NN,I document cases thoroughly and follow policy.,0.18,escalation,Hired
+TG9P1QUXM,CT1VEE2F7,I enjoy helping customers resolve issues quickly and clearly.,1.18,escalation,Not Hired
+T8EFHEDER,CEUPR3UFN,I coach peers and share best practices.,1.31,"billing,escalation,cancellation",Not Hired
+T8GSTCMCG,CRE2DDWHM,I stayed calm with an upset client and de-escalated the situation.,0.73,"refunds,policy",Not Hired
+TR0TY7E6R,CV6MTYF6H,I enjoy helping customers resolve issues quickly and clearly.,-0.21,"coaching,policy,SLA",Hired
+TW3OAU8OE,CIV2PEIF5,I stayed calm with an upset client and de-escalated the situation.,0.47,SLA,Not Hired
+TQ731Q8VP,CKMFSKKB2,I stayed calm with an upset client and de-escalated the situation.,-0.4,"cancellation,escalation,QA",Hired
+T09S4TBPB,CAXG4C9GP,I coach peers and share best practices.,0.68,"refunds,delivery",Hired
+T0FPJYX3N,C3VW7PM9U,I prefer phone over chat and may type slowly.,-0.44,"QA,coaching",Hired
+TI2KKZS0D,CW5DKS2VN,I struggle with multitasking in high volume periods.,-0.63,escalation,Not Hired
+TDHPVHMST,CBEC36F0G,I struggle with multitasking in high volume periods.,0.05,"QA,refunds,coaching",Hired
+TTVC9BOQM,CH8TLKUAJ,I document cases thoroughly and follow policy.,0.52,"cancellation,refunds",Not Hired
+T5F4UE93J,CD5FMAYZ1,I find it hard to write empathetic responses.,0.02,coaching,Hired
+T98YHHC2H,CH2C419Y5,I find it hard to write empathetic responses.,-0.28,"empathy,refunds,policy",Hired
+TDL4F0DMS,CFL6T5UBR,I coach peers and share best practices.,0.53,"cancellation,policy,delivery",Not Hired
+TBSAHGM0P,C94GABVFI,I sometimes miss policy details under pressure.,-0.32,billing,Not Hired
+TJYD99JIA,CKJO9LHEH,I sometimes miss policy details under pressure.,-1.49,QA,Not Hired
+T9X4LO05A,CWAX6SQK8,I struggle with multitasking in high volume periods.,-0.6,"policy,QA,coaching",Not Hired
+TPO84SQ2Y,C2GCTJZDU,I sometimes miss policy details under pressure.,-0.56,"SLA,escalation",Hired
+TJHFQCE1R,CH99N2Z75,I sometimes miss policy details under pressure.,-0.09,"coaching,billing,policy",Not Hired
+TYU8H1HAI,CWU19A9DS,I stayed calm with an upset client and de-escalated the situation.,0.16,"empathy,coaching",Not Hired
+TN1THLYRQ,CE0AN8GNH,I struggle with multitasking in high volume periods.,-0.64,"refunds,policy",Not Hired
+TVYQOI16E,CEN7PEX85,I find it hard to write empathetic responses.,-0.29,"policy,coaching,delivery",Not Hired
+TVJC1NOUI,C37PJSF4X,I find it hard to write empathetic responses.,0.29,cancellation,Hired
+TOLJMBOES,CCDKA5CT4,I document cases thoroughly and follow policy.,-0.19,"coaching,policy,escalation",Not Hired
+TI62GJGFI,CSMMJ7VPH,I struggle with multitasking in high volume periods.,-0.51,escalation,Not Hired
+T35YYCFER,C7BKPRRFI,I enjoy helping customers resolve issues quickly and clearly.,0.6,"coaching,QA,policy",Hired
+T5DTQFJ4O,CKJI7UQ8V,I enjoy helping customers resolve issues quickly and clearly.,0.47,"QA,empathy",Not Hired
+T3XU5XZ14,CSHUY8T78,I coach peers and share best practices.,0.53,"delivery,SLA",Not Hired
+T1MMJOB01,CX2U4JFDU,I prefer phone over chat and may type slowly.,-0.49,delivery,Not Hired
+TNXE7J9ZL,CQ3BDPOT0,I enjoy helping customers resolve issues quickly and clearly.,0.76,"SLA,coaching,escalation",Not Hired
+TYKINIPTJ,CSBCWABH5,I coach peers and share best practices.,-0.19,"empathy,policy",Not Hired
+TWWYFY5VO,CKX6BAAFB,I enjoy helping customers resolve issues quickly and clearly.,0.69,billing,Not Hired
+TRNB4TVST,CZTC65UZO,I coach peers and share best practices.,0.59,"QA,policy",Hired
+TGX7NESWO,CMUFN1JES,I struggle with multitasking in high volume periods.,-1.36,"SLA,coaching",Not Hired
+TYO19AUP1,CFKSMA40S,I coach peers and share best practices.,0.31,"SLA,refunds",Not Hired
+TFX94G9MR,CODZEGF59,I coach peers and share best practices.,0.76,policy,Hired
+TSIDA9ECS,CGXYZHZW5,I document cases thoroughly and follow policy.,-0.14,escalation,Not Hired
+T6L3KLBMV,C4C0DCYRX,I find it hard to write empathetic responses.,-0.57,"escalation,coaching,delivery",Not Hired
+T4NP092QV,CB34N4122,I sometimes miss policy details under pressure.,-0.49,"refunds,cancellation",Not Hired
+TR8L001W0,CG2FNLA3S,I enjoy helping customers resolve issues quickly and clearly.,0.7,"refunds,billing",Hired
+T9RBJBQL1,C5IUQFOCG,I find it hard to write empathetic responses.,-0.39,"QA,delivery,refunds",Not Hired
+TVIKLLV5B,CQ1BDJXEB,I stayed calm with an upset client and de-escalated the situation.,0.4,"empathy,billing,cancellation",Not Hired
+TXY1FCMJW,CVXWLI2MT,I prefer phone over chat and may type slowly.,0.09,"coaching,delivery",Not Hired
+TGHQCOIB6,C6NI7Y1QQ,I enjoy helping customers resolve issues quickly and clearly.,0.64,"billing,empathy",Not Hired
+TA3E0DCE0,CU4UCC1BN,I document cases thoroughly and follow policy.,1.08,coaching,Not Hired
+TTHHSVBRI,CIYWF3H2A,I struggle with multitasking in high volume periods.,-1.16,"billing,empathy",Not Hired
+T75B59FW1,CHDS901Z2,I document cases thoroughly and follow policy.,0.95,"coaching,billing,escalation",Hired
+T3I33CLA9,CHH6S031D,I stayed calm with an upset client and de-escalated the situation.,1.02,refunds,Not Hired
+TCMTUY03S,C4G7V85UN,I stayed calm with an upset client and de-escalated the situation.,0.17,"refunds,delivery",Not Hired
+TOA0DW9A0,CJQQ2MANK,I coach peers and share best practices.,0.37,cancellation,Hired
+T452ERICJ,CCHLUIT03,I document cases thoroughly and follow policy.,0.78,"coaching,refunds,delivery",Not Hired
+TD5E51THJ,CN2FPYZPC,I document cases thoroughly and follow policy.,2.0,"cancellation,delivery,refunds",Hired
+TASBWWL28,CPLFVUAOK,I coach peers and share best practices.,0.88,"billing,QA",Not Hired
+TFUNZLOPV,CAVXNQ2NC,I struggle with multitasking in high volume periods.,-0.31,"delivery,escalation",Hired
+TCJ0N6MYB,C00OO6UFZ,I prefer phone over chat and may type slowly.,-0.33,QA,Not Hired
+TTS9SZOBM,CH6T2WJVJ,I stayed calm with an upset client and de-escalated the situation.,0.64,"refunds,empathy,coaching",Hired
+TKGKH398M,CCVCYIDCG,I document cases thoroughly and follow policy.,0.95,"refunds,QA,cancellation",Not Hired
+TCA9S8BWK,CLRTRK88N,I sometimes miss policy details under pressure.,-0.47,"refunds,coaching,delivery",Not Hired
+TPPNR6AT7,CKQGPHBNY,I find it hard to write empathetic responses.,-0.98,"coaching,escalation",Not Hired
+TK7HPMJH9,CXDR4K7PI,I document cases thoroughly and follow policy.,-0.03,"refunds,policy,SLA",Not Hired
+TPHB74H2B,CGC0IRC8T,I enjoy helping customers resolve issues quickly and clearly.,0.48,"billing,cancellation",Hired
+TF3T7ELF7,CO6629OER,I sometimes miss policy details under pressure.,-0.97,QA,Hired
+TL06TDWR1,CTWQF6194,I coach peers and share best practices.,1.12,empathy,Not Hired
+TOU2E5HDG,C1HNV5IVC,I find it hard to write empathetic responses.,-0.84,"cancellation,coaching",Not Hired
+TX9XZJEDK,CJFGYEBTK,I coach peers and share best practices.,0.7,SLA,Not Hired
+T7P6068DO,C5J1EKKKY,I find it hard to write empathetic responses.,-0.06,"billing,policy",Hired
+TD7XRDNEB,CEFHDLTLL,I enjoy helping customers resolve issues quickly and clearly.,0.64,empathy,Not Hired
+TPZG3JMHW,CIXKWX7N8,I coach peers and share best practices.,0.84,"QA,delivery",Not Hired
+TL5UEFCII,CB86SN0WZ,I find it hard to write empathetic responses.,0.71,"coaching,cancellation,refunds",Not Hired
+TL96XVY1B,CMXZ4O7LH,I document cases thoroughly and follow policy.,0.98,"cancellation,coaching",Hired
+TGFZ65G5I,C3L3GKHED,I struggle with multitasking in high volume periods.,-0.05,"cancellation,policy",Not Hired
+TTHKT1DMU,CRPHT7RMD,I sometimes miss policy details under pressure.,-0.48,"refunds,delivery",Hired
+TVY5ITVHO,CAKCUJ2V2,I coach peers and share best practices.,0.23,"delivery,SLA,cancellation",Hired
+TPW8PK54S,C13P24N6K,I document cases thoroughly and follow policy.,0.56,"billing,empathy,escalation",Not Hired
+TRTGHIX96,CXU8OKBAN,I enjoy helping customers resolve issues quickly and clearly.,1.1,coaching,Not Hired
+T27VHPS62,C5RBS69OF,I enjoy helping customers resolve issues quickly and clearly.,0.97,coaching,Not Hired
+TX9NNMDQQ,CNVS00K4N,I prefer phone over chat and may type slowly.,-1.37,"SLA,coaching,delivery",Hired
+TFP9CTUJS,CPYXQ4UC1,I enjoy helping customers resolve issues quickly and clearly.,0.66,policy,Not Hired
+TK1ZLW0NG,C3I0KMJYJ,I struggle with multitasking in high volume periods.,-0.57,"cancellation,QA",Not Hired
+TV81FSJH3,C00O2NB6I,I prefer phone over chat and may type slowly.,0.06,escalation,Not Hired
+TVQRWK1PK,CZ4ONZFIV,I coach peers and share best practices.,0.29,"QA,empathy,delivery",Not Hired
+TP6MRYQ4M,CN9VQT2JW,I find it hard to write empathetic responses.,-0.58,"delivery,SLA,billing",Hired
+TMJ32IK3K,CQVLCE737,I find it hard to write empathetic responses.,0.33,"refunds,policy",Not Hired
+TXKALYPZC,CK03LE6FV,I document cases thoroughly and follow policy.,0.4,"policy,delivery,empathy",Hired
+TIH7MKZEN,CQFM8JGYH,I enjoy helping customers resolve issues quickly and clearly.,1.21,cancellation,Not Hired
+TJ4T5ULM1,CC0WB6A80,I find it hard to write empathetic responses.,0.46,QA,Not Hired
+TV0CTA950,C246KZVQO,I document cases thoroughly and follow policy.,0.84,coaching,Not Hired
+TGNKGOVBH,C47RCMHRV,I document cases thoroughly and follow policy.,0.59,refunds,Hired
+TLP2SJL0G,CO7YD4426,I stayed calm with an upset client and de-escalated the situation.,0.92,"billing,coaching,policy",Not Hired
+T60RHCTEL,CA2R8U4FF,I coach peers and share best practices.,-0.05,"QA,escalation",Hired
+T0NQBJCL0,CQXC9NAXU,I enjoy helping customers resolve issues quickly and clearly.,1.08,"escalation,delivery,coaching",Not Hired
+TBAKEAQSA,CSQVGPHFD,I enjoy helping customers resolve issues quickly and clearly.,0.2,delivery,Not Hired
+T9BHXINK3,CJ2JZ2Q0J,I sometimes miss policy details under pressure.,0.38,"policy,billing",Not Hired
+T8FSNJR0E,CQEYRLIUY,I stayed calm with an upset client and de-escalated the situation.,0.65,"refunds,cancellation,SLA",Not Hired
+TSE4K0XM1,CSZVSC65G,I coach peers and share best practices.,0.39,"QA,cancellation",Not Hired
+TH3NONW6Y,C29TA5FEY,I stayed calm with an upset client and de-escalated the situation.,1.06,"policy,coaching",Not Hired
+TI7JLEBWO,CVAXPN1T0,I find it hard to write empathetic responses.,0.13,delivery,Not Hired
+TY60RLGE1,CJTUDUFU7,I sometimes miss policy details under pressure.,0.09,delivery,Not Hired
+T4OGSW7E7,CZW6AKGUW,I stayed calm with an upset client and de-escalated the situation.,0.53,"SLA,QA,billing",Hired
+T6YIE714P,CUDD82FKH,I struggle with multitasking in high volume periods.,-0.62,"escalation,coaching,SLA",Not Hired
+T3R7A7XZK,CVWR7EJDY,I find it hard to write empathetic responses.,-0.03,refunds,Not Hired
+TYF299HPB,CQFZDZ91Q,I stayed calm with an upset client and de-escalated the situation.,1.04,policy,Not Hired
+TTK8EJ0OZ,CLJF77EMU,I prefer phone over chat and may type slowly.,-0.34,delivery,Hired
+TPRG70YJY,CW4N7WE72,I enjoy helping customers resolve issues quickly and clearly.,0.04,escalation,Not Hired
+TS9G8ETN1,COENPA6TB,I sometimes miss policy details under pressure.,-0.72,billing,Not Hired
+TKIR24A69,C2TQONTYP,I prefer phone over chat and may type slowly.,-0.35,QA,Not Hired
+TRROENZ93,CIQWHI3NH,I document cases thoroughly and follow policy.,0.72,SLA,Not Hired
+T9LQ7G3F6,C0172SRIV,I document cases thoroughly and follow policy.,0.84,"refunds,coaching,QA",Not Hired
+TDR4UBE3P,CJLEVMZRP,I document cases thoroughly and follow policy.,0.61,delivery,Hired
+TWGYPBJ1E,C54AFNS0P,I sometimes miss policy details under pressure.,0.12,"refunds,billing,policy",Hired
+TO3IHAMRQ,C4B8CAO0C,I stayed calm with an upset client and de-escalated the situation.,1.12,"cancellation,empathy",Not Hired
+TTU6U70TN,CBWO5LWPS,I struggle with multitasking in high volume periods.,-0.66,coaching,Not Hired
+TLAAMQQ0T,C6J97GFTB,I document cases thoroughly and follow policy.,1.13,QA,Hired
+TMPRCH2BQ,CK7IB1W6Q,I find it hard to write empathetic responses.,-0.72,"cancellation,empathy,delivery",Not Hired
+T5PS17F3X,CD18DOQEH,I enjoy helping customers resolve issues quickly and clearly.,0.09,"SLA,coaching,empathy",Not Hired
+TS237CL5X,COL6NCQ2G,I enjoy helping customers resolve issues quickly and clearly.,0.81,"SLA,cancellation",Hired
+THABCDBK8,C90B3F0WK,I document cases thoroughly and follow policy.,0.24,"QA,policy",Not Hired
+TV1FKVZL3,C35HVUEQY,I coach peers and share best practices.,-0.15,escalation,Hired
+TM4QFRRAR,CQZOGND1G,I stayed calm with an upset client and de-escalated the situation.,0.18,"refunds,cancellation,escalation",Not Hired
+TP6H1RLKQ,CSBIADP41,I stayed calm with an upset client and de-escalated the situation.,0.17,empathy,Hired
+TRTIYN174,COOUHZYQG,I document cases thoroughly and follow policy.,0.03,empathy,Not Hired
+TM805M4C7,CY1022VS4,I coach peers and share best practices.,0.29,"coaching,policy",Not Hired
+T1L1W15PP,CFW4D0F0P,I document cases thoroughly and follow policy.,0.27,QA,Not Hired
+T4QYUYYJY,CZY9B12PK,I document cases thoroughly and follow policy.,0.25,"delivery,refunds,QA",Not Hired
+T65QHG30Z,CA543CM8U,I sometimes miss policy details under pressure.,-0.42,"refunds,billing,delivery",Not Hired
+T4JDR2UPX,CSF6PY5TC,I find it hard to write empathetic responses.,-0.28,cancellation,Not Hired
+TWP7JO05G,CG58985QG,I stayed calm with an upset client and de-escalated the situation.,0.22,cancellation,Not Hired
+T4HYY339D,CPEJ45WEE,I struggle with multitasking in high volume periods.,-0.12,"cancellation,empathy,delivery",Not Hired
+TRY5PT66I,C1N7XMAYH,I sometimes miss policy details under pressure.,-0.57,"delivery,coaching",Not Hired
+TT4XTGK21,CIEZ1VEEO,I find it hard to write empathetic responses.,0.18,SLA,Not Hired
+T4F1OSQA9,C1HQYX6EK,I document cases thoroughly and follow policy.,0.92,"cancellation,coaching,delivery",Hired
+T9XP2N176,CNAZFX04Z,I prefer phone over chat and may type slowly.,0.09,"billing,QA,empathy",Not Hired
+TIGA10GYF,CCUJHB6PM,I stayed calm with an upset client and de-escalated the situation.,1.17,"refunds,QA",Hired
+TUGQ2N8P1,CCKYI9CVR,I find it hard to write empathetic responses.,-1.28,empathy,Not Hired
+TU03NUGPR,CVCOE7KIT,I coach peers and share best practices.,-1.09,policy,Not Hired
+T7OMW5321,CZZ319UK5,I enjoy helping customers resolve issues quickly and clearly.,0.37,delivery,Hired
+T6QGZ5OHS,CPNMF4LK8,I stayed calm with an upset client and de-escalated the situation.,0.43,delivery,Hired
+T4BMJ5I8Z,CKHX3K4UG,I stayed calm with an upset client and de-escalated the situation.,1.25,"QA,delivery,billing",Hired
+TLXMVOV0L,C7AGIKEAY,I find it hard to write empathetic responses.,-0.16,billing,Not Hired
+TPIN295HS,CFLQUXY4C,I coach peers and share best practices.,-0.05,coaching,Hired
+TZBMB37Q8,C9XOOP3LG,I stayed calm with an upset client and de-escalated the situation.,0.77,"escalation,cancellation",Not Hired
+THR4264LZ,CNTY3IK7P,I document cases thoroughly and follow policy.,1.05,"SLA,refunds",Hired
+TY2I9DD9B,CMSU53K6S,I prefer phone over chat and may type slowly.,-1.3,"refunds,QA",Not Hired
+TZBRKXMR3,CDZMB7CHA,I struggle with multitasking in high volume periods.,-0.19,escalation,Not Hired
+T2W7AR2D3,CKI3FB48I,I stayed calm with an upset client and de-escalated the situation.,-0.09,billing,Not Hired
+T6FIEZ67S,CMAVQ5MHF,I find it hard to write empathetic responses.,-0.02,delivery,Not Hired
+TRHQDYLMA,CMFAI6T9H,I enjoy helping customers resolve issues quickly and clearly.,0.4,delivery,Not Hired
+T8AR2NHIY,C4F37YMUB,I document cases thoroughly and follow policy.,0.39,"cancellation,QA,policy",Not Hired
+TGTF4P4EA,CUGRMGDS8,I find it hard to write empathetic responses.,-1.14,"cancellation,billing",Not Hired
+T9945U3CI,CIVY4RAK4,I coach peers and share best practices.,0.04,"billing,coaching",Not Hired
+T50GKIV55,CCDQ6EQZH,I struggle with multitasking in high volume periods.,-0.33,"SLA,empathy",Not Hired
+TBPRYU2AE,CYKJEAS9H,I sometimes miss policy details under pressure.,-0.72,"refunds,QA,cancellation",Hired
+TYNJIMMLS,CIL6QKLVN,I stayed calm with an upset client and de-escalated the situation.,1.24,"delivery,policy,refunds",Not Hired
+T68R4CO5J,CMC7G3GLV,I find it hard to write empathetic responses.,-0.58,"cancellation,delivery,coaching",Hired
+T1DEGMFV3,C9SZHUCWH,I stayed calm with an upset client and de-escalated the situation.,0.02,"escalation,cancellation,coaching",Not Hired
+TFEJ08FO4,C7WRPWUSF,I coach peers and share best practices.,0.27,"billing,QA",Not Hired
+TPTK1P2XY,CMQLO13AN,I prefer phone over chat and may type slowly.,-0.3,SLA,Not Hired
+TC14ZI7DD,CEKO45OLT,I find it hard to write empathetic responses.,0.11,"refunds,delivery,QA",Hired
+TCZGK1GM7,CG2NPTP1I,I find it hard to write empathetic responses.,0.23,refunds,Hired
+TOHE2SSE2,CGSUWOOY0,I coach peers and share best practices.,0.5,"escalation,cancellation,delivery",Hired
+TAL5Z3H8E,C51Z8H6I8,I find it hard to write empathetic responses.,-0.06,empathy,Not Hired
+TVMIVUPD8,CVIMNSN0L,I stayed calm with an upset client and de-escalated the situation.,-0.13,policy,Not Hired
+T09ZIZ1Y0,C6BALHRKM,I stayed calm with an upset client and de-escalated the situation.,1.09,"empathy,refunds",Not Hired
