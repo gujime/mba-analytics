@@ -72,12 +72,12 @@ Candidatos_Contratados =
 ![Vista de escritorio](images/desktop-layout.png)
 
 >**Graficas: Universo de candidatos**
-<br>1. [Donut chart] Total de candidatos agrupados por Genero
-<br>2. [Treemap] Total de candidatos por Medio de postulación y Rol aplicado
+<br>1. [Line and clustered column chart] Total Candidatos por Genero, Tiempo Contratación (Avg), Sesgo (Bias_Flag)
+<br>2. [Treemap] Total de candidatos por Medio de postulación y Rol aplicado (Tooltip: % Contratación)
 <br>3. [Stacked bar chart] Promedio de Expectativa salarial (USD) por Nivel educativo y Genero
-<br>4. [Stacked bar chart] Promedio de Expectativa salarial (USD) por Rol aplicado y Nivel idioma
-<br>5. [Scatterc chart] Relación promedio Calificación reclutados y CSAT agrupado por Región
-<br>6. [Scatterc chart] Relación promedio Edad y Sentimiento entrevistas agrupado por Rol aplicado
+<br>4. [Waterfall chart] Promedio de Expectativa salarial (USD) por Rol aplicado y Nivel idioma
+<br>5. [Scatter chart] Relación promedio Calificación reclutados y CSAT agrupado por Región
+<br>6. [Scatter chart] Relación promedio Edad y Sentimiento entrevistas agrupado por Rol aplicado
 <br>7. [Stacked bar chart] Top 10 Candidatos por Calificación personalizada (Nuevo calculo)
 
 >**Grafica: Feedback de candidatos**
@@ -95,9 +95,9 @@ Candidatos_Contratados =
 
 >**Graficos:**
 <br>1. [Multi-row card] Universo de candidatos, Candidatos contratados, % Contratación
-<br>2. [Donut chart] Total de candidatos agrupados por Genero
-<br>3. [Stacked bar chart] Promedio de Expectativa salarial (USD) por Rol aplicado y Nivel idioma
-<br>4. [Scatterc chart] Relación promedio Calificación reclutados y CSAT agrupado por Región
+<br>2. [Line and clustered column chart] Total Candidatos por Genero, Tiempo Contratación (Avg), Sesgo (Bias_Flag)
+<br>3. [Waterfall chart] Promedio de Expectativa salarial (USD) por Rol aplicado y Nivel idioma
+<br>4. [Scatter chart] Relación promedio Calificación reclutados y CSAT agrupado por Región
 <br>5. [Stacked bar chart] Top 10 Candidatos por Calificación personalizada (Nuevo calculo)
 <br>[Decomposition tree] Descomposición de Candidatos por Requiere entrenamiento, Alineado a la política y Área evaluada
 <br>6. [Line and clustered column chart] Total de candidatos contratados o no con promedio de sentimiento
